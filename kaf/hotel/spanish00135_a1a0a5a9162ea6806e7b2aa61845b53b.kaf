@@ -16,7 +16,7 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:51:23" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:12:03CET"/>
+      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-26T16:14:34CET"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
