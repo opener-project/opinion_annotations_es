@@ -17,6 +17,10 @@
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
       <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-26T16:14:31CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:48CEST"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:48CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2264,4 +2268,15 @@
       <edge id="tre398" from="ter115" to="nter283"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Staff">
+        <references>
+          <span>
+            <target id="t2"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
 </KAF>

@@ -114,8 +114,6 @@ Processing  spanish00088_88a12d17340e4d95c64325476fb24f4c
 	Total of opinions with different scope in the tag file: 6
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 8
-Processing  spanish00181_cdec44d748a98c1ef8c3c8146f31c936
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_es/tag/hotel/spanish00181_cdec44d748a98c1ef8c3c8146f31c936.tag
 Processing  spanish00011_0ae91bedb55d450aa45158e8a909d08b
 	Total of opinions with different scope in the tag file: 10
 	Total of skipped opinions: 0
@@ -136,8 +134,6 @@ Processing  spanish00113_a22e12b36c043371d736c6a4356ed995
 	Total of opinions with different scope in the tag file: 8
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 9
-Processing  spanish00089_6c073eba0393ac58a590e47dea207bd6
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_es/tag/hotel/spanish00089_6c073eba0393ac58a590e47dea207bd6.tag
 Processing  spanish00091_71467f3d3ca657cece0afcf24d1d436a
 	Total of opinions with different scope in the tag file: 12
 	Total of skipped opinions: 0
@@ -328,14 +324,10 @@ Processing  spanish00226_fc303a5ce8960bb04c67c9cf18a5dbbc
 	Total of opinions with different scope in the tag file: 6
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 6
-Processing  spanish00079_5c14d33cf2b2655d61e87b267ada13bb
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_es/tag/hotel/spanish00079_5c14d33cf2b2655d61e87b267ada13bb.tag
 Processing  spanish00105_80c7b7196dce08d381430765a06ed626
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 3
-Processing  spanish00143_aa4cccf601e42d929d19ab06ea610242
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_es/tag/hotel/spanish00143_aa4cccf601e42d929d19ab06ea610242.tag
 Processing  spanish00102_9993bef651106b8b811c517c8fd6eaa7
 	Total of opinions with different scope in the tag file: 5
 	Total of skipped opinions: 0
@@ -957,8 +949,6 @@ Processing  spanish00027_19fb36494ab339924c3174fcb9e99a13
 	Total of opinions with different scope in the tag file: 6
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 7
-Processing  spanish00099_78e9bd69875b969380b905a48858de03
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_es/tag/hotel/spanish00099_78e9bd69875b969380b905a48858de03.tag
 Processing  spanish00139_a85beb8197d43c124df13836e3c4191b
 	Total of opinions with different scope in the tag file: 15
 	Total of skipped opinions: 0
@@ -1163,8 +1153,6 @@ Processing  spanish00147_af0773ff5ff6b4b5cca41978a62415a8
 	Total of opinions with different scope in the tag file: 9
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 13
-Processing  spanish00189_d5e9120ad9a1dc9656316545598e2ec6
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_es/tag/hotel/spanish00189_d5e9120ad9a1dc9656316545598e2ec6.tag
 Processing  spanish00136_bfe91a0b2e35ea7da925aec2e4ba8794
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -1748,7 +1736,7 @@ Processing  spanish00001_0186df240cead8f20452564d4566699e
 	Total of opinion triples generated: 6
 
 #########################
-Total KAF files  415
+Total KAF files  409
 Total TAG files  409
 Total opinions-scope in tag 3239
 Total skipped opinions 7
