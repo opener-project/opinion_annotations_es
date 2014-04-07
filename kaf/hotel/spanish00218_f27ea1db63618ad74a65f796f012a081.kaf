@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:54:09" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:51CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:39CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:51CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:39CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1617,43 +1617,6 @@
       <edge id="tre276" from="ter83" to="nter193"/>
     </tree>
   </constituency>
-  <opinions>
-    <opinion oid="1_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--La atención-->
-        <span>
-          <target id="t53"/>
-          <target id="t54"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--magnífica-->
-        <span>
-          <target id="t58"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="5_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--Las personas de recepción-->
-        <span>
-          <target id="t60"/>
-          <target id="t61"/>
-          <target id="t62"/>
-          <target id="t63"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy amables-->
-        <span>
-          <target id="t65"/>
-          <target id="t66"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-  </opinions>
   <features>
     <properties>
       <property pid="p0" lemma="Staff">
@@ -1674,4 +1637,43 @@
       </property>
     </properties>
   </features>
+  <opinions>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=1-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--La atención-->
+        <span>
+          <target id="t53"/>
+          <target id="t54"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--magnífica-->
+        <span>
+          <target id="t58"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=5-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--Las personas de recepción-->
+        <span>
+          <target id="t60"/>
+          <target id="t61"/>
+          <target id="t62"/>
+          <target id="t63"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--muy amables-->
+        <span>
+          <target id="t65"/>
+          <target id="t66"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
 </KAF>

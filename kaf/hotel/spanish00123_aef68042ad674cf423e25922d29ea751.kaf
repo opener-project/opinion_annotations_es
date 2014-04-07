@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:14:47" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:51CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:39CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:51CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:39CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1034,8 +1034,27 @@
       <edge id="tre185" from="ter51" to="nter134"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Staff">
+        <references>
+          <span>
+            <target id="t14"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Rooms">
+        <references>
+          <span>
+            <target id="t30"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="23_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=23-->
       <opinion_holder>
         <!--yo-->
         <span>
@@ -1057,7 +1076,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="33_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
         <!--todo-->
@@ -1073,7 +1093,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="33_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
         <!--todo-->
@@ -1090,7 +1111,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="31_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
         <!--la habitacion-->
@@ -1108,7 +1130,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="19_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=19-->
       <opinion_holder>
         <!--nos-->
         <span>
@@ -1128,7 +1151,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="3_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target>
         <!--hotel en Madrid-->
@@ -1145,7 +1169,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder>
         <!--me-->
         <span>
@@ -1166,7 +1191,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--hotel en madrid-->
@@ -1184,22 +1210,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Staff">
-        <references>
-          <span>
-            <target id="t14"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Rooms">
-        <references>
-          <span>
-            <target id="t30"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:53:03" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:52CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:40CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:52CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:40CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2909,189 +2909,6 @@
       <edge id="tre507" from="ter149" to="nter358"/>
     </tree>
   </constituency>
-  <opinions>
-    <opinion oid="11_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--piscina-->
-        <span>
-          <target id="t74"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--enorme-->
-        <span>
-          <target id="t73"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="15_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--todo-->
-        <span>
-          <target id="t76"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--decorado con un gusto exquisito-->
-        <span>
-          <target id="t78"/>
-          <target id="t79"/>
-          <target id="t80"/>
-          <target id="t81"/>
-          <target id="t82"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="22_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--dormir fresquitos-->
-        <span>
-          <target id="t115"/>
-          <target id="t116"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--magnífico-->
-        <span>
-          <target id="t113"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="19_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--todo lo que se pueda necesitar-->
-        <span>
-          <target id="t86"/>
-          <target id="t87"/>
-          <target id="t88"/>
-          <target id="t89"/>
-          <target id="t90"/>
-          <target id="t91"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tiene-->
-        <span>
-          <target id="t85"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="31_0">
-      <opinion_holder/>
-      <opinion_target/>
-      <opinion_expression polarity="Positive">
-        <!--vamos a repetir-->
-        <span>
-          <target id="t146"/>
-          <target id="t147"/>
-          <target id="t148"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="28_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--Lo-->
-        <span>
-          <target id="t133"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--hemos recomendado-->
-        <span>
-          <target id="t134"/>
-          <target id="t135"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="33_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--un oasis de tranquilidad-->
-        <span>
-          <target id="t123"/>
-          <target id="t124"/>
-          <target id="t125"/>
-          <target id="t126"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--descubrir-->
-        <span>
-          <target id="t122"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="2_0">
-      <opinion_holder/>
-      <opinion_target/>
-      <opinion_expression polarity="StrongPositive">
-        <!--Sencillamente perfecto-->
-        <span>
-          <target id="t1"/>
-          <target id="t2"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="4_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--Nuestra estancia allí-->
-        <span>
-          <target id="t34"/>
-          <target id="t35"/>
-          <target id="t36"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--más que agradable-->
-        <span>
-          <target id="t38"/>
-          <target id="t39"/>
-          <target id="t40"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="7_0">
-      <opinion_holder>
-        <!--nos-->
-        <span>
-          <target id="t42"/>
-        </span>
-      </opinion_holder>
-      <opinion_target/>
-      <opinion_expression polarity="Positive">
-        <!--sentimos como en casa-->
-        <span>
-          <target id="t43"/>
-          <target id="t44"/>
-          <target id="t45"/>
-          <target id="t46"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="7_1">
-      <opinion_holder>
-        <!--nos-->
-        <span>
-          <target id="t42"/>
-        </span>
-      </opinion_holder>
-      <opinion_target/>
-      <opinion_expression polarity="Positive">
-        <!--como en familia-->
-        <span>
-          <target id="t48"/>
-          <target id="t49"/>
-          <target id="t50"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-  </opinions>
   <features>
     <properties>
       <property pid="p0" lemma="Interior/exterior">
@@ -3119,4 +2936,198 @@
       </property>
     </properties>
   </features>
+  <opinions>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--piscina-->
+        <span>
+          <target id="t74"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--enorme-->
+        <span>
+          <target id="t73"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=15-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--todo-->
+        <span>
+          <target id="t76"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--decorado con un gusto exquisito-->
+        <span>
+          <target id="t78"/>
+          <target id="t79"/>
+          <target id="t80"/>
+          <target id="t81"/>
+          <target id="t82"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--dormir fresquitos-->
+        <span>
+          <target id="t115"/>
+          <target id="t116"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--magnífico-->
+        <span>
+          <target id="t113"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=19-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--todo lo que se pueda necesitar-->
+        <span>
+          <target id="t86"/>
+          <target id="t87"/>
+          <target id="t88"/>
+          <target id="t89"/>
+          <target id="t90"/>
+          <target id="t91"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tiene-->
+        <span>
+          <target id="t85"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=31-->
+      <opinion_holder/>
+      <opinion_target/>
+      <opinion_expression polarity="Positive">
+        <!--vamos a repetir-->
+        <span>
+          <target id="t146"/>
+          <target id="t147"/>
+          <target id="t148"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=28-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--Lo-->
+        <span>
+          <target id="t133"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--hemos recomendado-->
+        <span>
+          <target id="t134"/>
+          <target id="t135"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=33-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--un oasis de tranquilidad-->
+        <span>
+          <target id="t123"/>
+          <target id="t124"/>
+          <target id="t125"/>
+          <target id="t126"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--descubrir-->
+        <span>
+          <target id="t122"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
+      <opinion_holder/>
+      <opinion_target/>
+      <opinion_expression polarity="StrongPositive">
+        <!--Sencillamente perfecto-->
+        <span>
+          <target id="t1"/>
+          <target id="t2"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--Nuestra estancia allí-->
+        <span>
+          <target id="t34"/>
+          <target id="t35"/>
+          <target id="t36"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--más que agradable-->
+        <span>
+          <target id="t38"/>
+          <target id="t39"/>
+          <target id="t40"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
+      <opinion_holder>
+        <!--nos-->
+        <span>
+          <target id="t42"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="Positive">
+        <!--sentimos como en casa-->
+        <span>
+          <target id="t43"/>
+          <target id="t44"/>
+          <target id="t45"/>
+          <target id="t46"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=7-->
+      <opinion_holder>
+        <!--nos-->
+        <span>
+          <target id="t42"/>
+        </span>
+      </opinion_holder>
+      <opinion_target/>
+      <opinion_expression polarity="Positive">
+        <!--como en familia-->
+        <span>
+          <target id="t48"/>
+          <target id="t49"/>
+          <target id="t50"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
 </KAF>

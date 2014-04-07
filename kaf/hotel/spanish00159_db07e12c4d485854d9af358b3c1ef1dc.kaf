@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:16:51" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:49CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:36CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:49CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -830,8 +830,27 @@
       <edge id="tre143" from="ter41" to="nter102"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t14"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Staff">
+        <references>
+          <span>
+            <target id="t11"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="9_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=9-->
       <opinion_holder>
         <!--nos-->
         <span>
@@ -856,7 +875,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--Dias-->
@@ -871,7 +891,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--un lugar-->
@@ -888,7 +909,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="14_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=14-->
       <opinion_holder/>
       <opinion_target>
         <!--las instalaciones-->
@@ -906,7 +928,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="14_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=14-->
       <opinion_holder/>
       <opinion_target>
         <!--las instalaciones-->
@@ -928,22 +951,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Interior/exterior">
-        <references>
-          <span>
-            <target id="t14"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Staff">
-        <references>
-          <span>
-            <target id="t11"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

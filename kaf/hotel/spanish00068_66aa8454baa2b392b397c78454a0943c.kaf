@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:11:24" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:44CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:28CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:44CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:28CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -900,8 +900,29 @@
       <edge id="tre151" from="ter45" to="nter106"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t25"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t42"/>
+            <target id="t43"/>
+            <target id="t44"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="10_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=10-->
       <opinion_holder/>
       <opinion_target>
         <!--su albornoz-->
@@ -923,7 +944,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="13_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=13-->
       <opinion_holder/>
       <opinion_target>
         <!--esta cadena-->
@@ -941,7 +963,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Positive">
@@ -951,7 +974,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--botella de cava-->
@@ -971,7 +995,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--una estancia-->
@@ -987,7 +1012,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--una estancia-->
@@ -1005,24 +1031,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Facilities">
-        <references>
-          <span>
-            <target id="t25"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Facilities">
-        <references>
-          <span>
-            <target id="t42"/>
-            <target id="t43"/>
-            <target id="t44"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

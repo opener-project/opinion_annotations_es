@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:15:32" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:52CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:40CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:52CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:40CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1010,8 +1010,21 @@
       <edge id="tre176" from="ter50" to="nter126"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Location">
+        <references>
+          <span>
+            <target id="t20"/>
+            <target id="t21"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="8_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=8-->
       <opinion_holder/>
       <opinion_target>
         <!--El hotel-->
@@ -1029,7 +1042,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target>
         <!--a todos los lugares centricos de Madrid-->
@@ -1054,7 +1068,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="5_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=5-->
       <opinion_holder/>
       <opinion_target>
         <!--Hotel-->
@@ -1069,7 +1084,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="5_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=5-->
       <opinion_holder/>
       <opinion_target>
         <!--Hotel-->
@@ -1086,16 +1102,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Location">
-        <references>
-          <span>
-            <target id="t20"/>
-            <target id="t21"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

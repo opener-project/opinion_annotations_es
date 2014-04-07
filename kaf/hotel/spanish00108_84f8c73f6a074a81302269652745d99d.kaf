@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:50:32" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:46CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:31CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:46CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:31CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2326,570 +2326,6 @@
       <edge id="tre417" from="ter119" to="nter298"/>
     </tree>
   </constituency>
-  <opinions>
-    <opinion oid="27_0">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--tratamientos faciales y corporales-->
-        <span>
-          <target id="t76"/>
-          <target id="t77"/>
-          <target id="t78"/>
-          <target id="t79"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_1">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--hidroterapia-->
-        <span>
-          <target id="t74"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_2">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--SPA-->
-        <span>
-          <target id="t70"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_3">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--estética-->
-        <span>
-          <target id="t90"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_4">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--baños termales-->
-        <span>
-          <target id="t81"/>
-          <target id="t82"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_5">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--Una zona para fitness-->
-        <span>
-          <target id="t84"/>
-          <target id="t85"/>
-          <target id="t86"/>
-          <target id="t87"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_6">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--piscinas-->
-        <span>
-          <target id="t60"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_7">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--club de niños-->
-        <span>
-          <target id="t66"/>
-          <target id="t67"/>
-          <target id="t68"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_8">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--muchas opciones dentro-->
-        <span>
-          <target id="t56"/>
-          <target id="t57"/>
-          <target id="t58"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_9">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--canchas de tenis-->
-        <span>
-          <target id="t62"/>
-          <target id="t63"/>
-          <target id="t64"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--gustó mucho-->
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_10">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--tratamientos faciales y corporales-->
-        <span>
-          <target id="t76"/>
-          <target id="t77"/>
-          <target id="t78"/>
-          <target id="t79"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_11">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--hidroterapia-->
-        <span>
-          <target id="t74"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_12">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--SPA-->
-        <span>
-          <target id="t70"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_13">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--estética-->
-        <span>
-          <target id="t90"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_14">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--baños termales-->
-        <span>
-          <target id="t81"/>
-          <target id="t82"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_15">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--Una zona para fitness-->
-        <span>
-          <target id="t84"/>
-          <target id="t85"/>
-          <target id="t86"/>
-          <target id="t87"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_16">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--piscinas-->
-        <span>
-          <target id="t60"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_17">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--club de niños-->
-        <span>
-          <target id="t66"/>
-          <target id="t67"/>
-          <target id="t68"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_18">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--muchas opciones dentro-->
-        <span>
-          <target id="t56"/>
-          <target id="t57"/>
-          <target id="t58"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="27_19">
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--canchas de tenis-->
-        <span>
-          <target id="t62"/>
-          <target id="t63"/>
-          <target id="t64"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--tengas-->
-        <span>
-          <target id="t55"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="2_0">
-      <opinion_holder/>
-      <opinion_target/>
-      <opinion_expression polarity="StrongPositive">
-        <!--Totalmente recomendable-->
-        <span>
-          <target id="t1"/>
-          <target id="t2"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="48_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--trato-->
-        <span>
-          <target id="t114"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--correcto-->
-        <span>
-          <target id="t112"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="48_1">
-      <opinion_holder/>
-      <opinion_target>
-        <!--habitación-->
-        <span>
-          <target id="t116"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--correcto-->
-        <span>
-          <target id="t112"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="48_2">
-      <opinion_holder/>
-      <opinion_target>
-        <!--comidas-->
-        <span>
-          <target id="t118"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--correcto-->
-        <span>
-          <target id="t112"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="35_0">
-      <opinion_holder/>
-      <opinion_target>
-        <!--tdo-->
-        <span>
-          <target id="t109"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy bien-->
-        <span>
-          <target id="t110"/>
-          <target id="t111"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="30_0">
-      <opinion_holder>
-        <!--nos-->
-        <span>
-          <target id="t98"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--el mundo del relax y el bienestar-->
-        <span>
-          <target id="t101"/>
-          <target id="t102"/>
-          <target id="t103"/>
-          <target id="t104"/>
-          <target id="t105"/>
-          <target id="t106"/>
-          <target id="t107"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--gusta tanto-->
-        <span>
-          <target id="t99"/>
-          <target id="t100"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="30_1">
-      <opinion_holder>
-        <!--nos-->
-        <span>
-          <target id="t98"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--el mundo del relax y el bienestar-->
-        <span>
-          <target id="t101"/>
-          <target id="t102"/>
-          <target id="t103"/>
-          <target id="t104"/>
-          <target id="t105"/>
-          <target id="t106"/>
-          <target id="t107"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--Una pasada-->
-        <span>
-          <target id="t92"/>
-          <target id="t93"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-  </opinions>
   <features>
     <properties>
       <property pid="p0" lemma="Facilities">
@@ -2996,4 +2432,595 @@
       </property>
     </properties>
   </features>
+  <opinions>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--tratamientos faciales y corporales-->
+        <span>
+          <target id="t76"/>
+          <target id="t77"/>
+          <target id="t78"/>
+          <target id="t79"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--hidroterapia-->
+        <span>
+          <target id="t74"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o2">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--SPA-->
+        <span>
+          <target id="t70"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o3">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--estética-->
+        <span>
+          <target id="t90"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o4">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--baños termales-->
+        <span>
+          <target id="t81"/>
+          <target id="t82"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--Una zona para fitness-->
+        <span>
+          <target id="t84"/>
+          <target id="t85"/>
+          <target id="t86"/>
+          <target id="t87"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--piscinas-->
+        <span>
+          <target id="t60"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o7">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--club de niños-->
+        <span>
+          <target id="t66"/>
+          <target id="t67"/>
+          <target id="t68"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o8">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--muchas opciones dentro-->
+        <span>
+          <target id="t56"/>
+          <target id="t57"/>
+          <target id="t58"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o9">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--canchas de tenis-->
+        <span>
+          <target id="t62"/>
+          <target id="t63"/>
+          <target id="t64"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustó mucho-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o10">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--tratamientos faciales y corporales-->
+        <span>
+          <target id="t76"/>
+          <target id="t77"/>
+          <target id="t78"/>
+          <target id="t79"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o11">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--hidroterapia-->
+        <span>
+          <target id="t74"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o12">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--SPA-->
+        <span>
+          <target id="t70"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o13">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--estética-->
+        <span>
+          <target id="t90"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o14">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--baños termales-->
+        <span>
+          <target id="t81"/>
+          <target id="t82"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o15">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--Una zona para fitness-->
+        <span>
+          <target id="t84"/>
+          <target id="t85"/>
+          <target id="t86"/>
+          <target id="t87"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o16">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--piscinas-->
+        <span>
+          <target id="t60"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o17">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--club de niños-->
+        <span>
+          <target id="t66"/>
+          <target id="t67"/>
+          <target id="t68"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o18">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--muchas opciones dentro-->
+        <span>
+          <target id="t56"/>
+          <target id="t57"/>
+          <target id="t58"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o19">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--canchas de tenis-->
+        <span>
+          <target id="t62"/>
+          <target id="t63"/>
+          <target id="t64"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tengas-->
+        <span>
+          <target id="t55"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
+      <opinion_holder/>
+      <opinion_target/>
+      <opinion_expression polarity="StrongPositive">
+        <!--Totalmente recomendable-->
+        <span>
+          <target id="t1"/>
+          <target id="t2"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=48-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--trato-->
+        <span>
+          <target id="t114"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--correcto-->
+        <span>
+          <target id="t112"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=48-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--habitación-->
+        <span>
+          <target id="t116"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--correcto-->
+        <span>
+          <target id="t112"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o2">
+      <!--Tag opinion scope id=48-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--comidas-->
+        <span>
+          <target id="t118"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--correcto-->
+        <span>
+          <target id="t112"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=35-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--tdo-->
+        <span>
+          <target id="t109"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--muy bien-->
+        <span>
+          <target id="t110"/>
+          <target id="t111"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=30-->
+      <opinion_holder>
+        <!--nos-->
+        <span>
+          <target id="t98"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--el mundo del relax y el bienestar-->
+        <span>
+          <target id="t101"/>
+          <target id="t102"/>
+          <target id="t103"/>
+          <target id="t104"/>
+          <target id="t105"/>
+          <target id="t106"/>
+          <target id="t107"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--gusta tanto-->
+        <span>
+          <target id="t99"/>
+          <target id="t100"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=30-->
+      <opinion_holder>
+        <!--nos-->
+        <span>
+          <target id="t98"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--el mundo del relax y el bienestar-->
+        <span>
+          <target id="t101"/>
+          <target id="t102"/>
+          <target id="t103"/>
+          <target id="t104"/>
+          <target id="t105"/>
+          <target id="t106"/>
+          <target id="t107"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--Una pasada-->
+        <span>
+          <target id="t92"/>
+          <target id="t93"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
 </KAF>

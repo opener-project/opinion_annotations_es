@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:12:46" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:46CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:32CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:46CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:32CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -929,8 +929,35 @@
       <edge id="tre156" from="ter46" to="nter110"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t19"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Staff">
+        <references>
+          <span>
+            <target id="t41"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p2" lemma="Cleanliness">
+        <references>
+          <span>
+            <target id="t37"/>
+            <target id="t38"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--todo-->
@@ -946,7 +973,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="23_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=23-->
       <opinion_holder/>
       <opinion_target>
         <!--el personal-->
@@ -962,7 +990,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="23_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=23-->
       <opinion_holder/>
       <opinion_target>
         <!--el personal-->
@@ -979,7 +1008,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--el precio-->
@@ -1009,7 +1039,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="StrongPositive">
@@ -1020,7 +1051,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--Apartamentos-->
@@ -1036,7 +1068,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="9_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=9-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Positive">
@@ -1049,30 +1082,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Value-for-money">
-        <references>
-          <span>
-            <target id="t19"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Staff">
-        <references>
-          <span>
-            <target id="t41"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p2" lemma="Cleanliness">
-        <references>
-          <span>
-            <target id="t37"/>
-            <target id="t38"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

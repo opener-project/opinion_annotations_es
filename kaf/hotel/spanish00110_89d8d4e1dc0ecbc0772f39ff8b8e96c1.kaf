@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:50:36" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:44CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:28CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:44CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:28CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1113,8 +1113,20 @@
       <edge id="tre192" from="ter57" to="nter135"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t16"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target>
         <!--la situacion-->
@@ -1131,7 +1143,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>
         <!--le-->
@@ -1151,7 +1164,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="22_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
         <!--una reforma-->
@@ -1167,7 +1181,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--Este hotel-->
@@ -1185,7 +1200,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="5_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=5-->
       <opinion_holder>
         <!--me-->
         <span>
@@ -1207,7 +1223,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--una reforma-->
@@ -1225,15 +1242,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Interior/exterior">
-        <references>
-          <span>
-            <target id="t16"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

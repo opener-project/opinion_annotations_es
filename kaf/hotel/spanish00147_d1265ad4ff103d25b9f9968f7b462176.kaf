@@ -18,9 +18,10 @@
     </linguisticProcessors>
     <linguisticProcessors layer="features">
       <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:50CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:37CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:50CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:37CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -916,7 +917,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder>
         <!--me-->
         <span>
@@ -933,7 +935,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="13_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=13-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="StrongPositive">
@@ -946,7 +949,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="16_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=16-->
       <opinion_holder/>
       <opinion_target>
         <!--este hotel.-->
@@ -962,7 +966,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Positive">
@@ -975,7 +980,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--estancia-->
@@ -991,7 +997,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="8_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=8-->
       <opinion_holder>
         <!--mi-->
         <span>

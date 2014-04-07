@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:10:26" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:45CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:30CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:45CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:30CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2244,8 +2244,27 @@
       <edge id="tre393" from="ter114" to="nter279"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t99"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Staff">
+        <references>
+          <span>
+            <target id="t101"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder>
         <!--nos-->
         <span>
@@ -2272,7 +2291,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--servicios-->
@@ -2287,7 +2307,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--atención-->
@@ -2302,7 +2323,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--Calidad-->
@@ -2317,7 +2339,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--hoteles cadena Senator-->
@@ -2334,7 +2357,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--la experiencia-->
@@ -2351,7 +2375,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="23_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=23-->
       <opinion_holder>
         <!--nos-->
         <span>
@@ -2370,22 +2395,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Facilities">
-        <references>
-          <span>
-            <target id="t99"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Staff">
-        <references>
-          <span>
-            <target id="t101"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

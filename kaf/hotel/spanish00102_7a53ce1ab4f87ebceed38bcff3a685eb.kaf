@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:50:20" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:45CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:30CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:45CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:30CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1087,8 +1087,20 @@
       <edge id="tre190" from="ter54" to="nter136"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Location">
+        <references>
+          <span>
+            <target id="t42"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder/>
       <opinion_target>
         <!--los restaurantes con comidas tipicas-->
@@ -1108,7 +1120,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="15_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Positive">
@@ -1119,7 +1132,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--unas vacaciones-->
@@ -1135,7 +1149,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--vacaciones-->
@@ -1150,7 +1165,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--todo-->
@@ -1166,7 +1182,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--todo-->
@@ -1183,15 +1200,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Location">
-        <references>
-          <span>
-            <target id="t42"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

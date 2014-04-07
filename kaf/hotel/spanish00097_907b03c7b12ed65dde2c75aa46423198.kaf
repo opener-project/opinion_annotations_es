@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:13:05" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:47CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:33CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:47CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:33CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1330,8 +1330,27 @@
       <edge id="tre237" from="ter66" to="nter171"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Staff">
+        <references>
+          <span>
+            <target id="t38"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Location">
+        <references>
+          <span>
+            <target id="t51"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder/>
       <opinion_target>
         <!--del personal-->
@@ -1347,7 +1366,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="11_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=11-->
       <opinion_holder/>
       <opinion_target>
         <!--del personal-->
@@ -1365,7 +1385,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--situación en la ciudad-->
@@ -1392,7 +1413,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="3_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="StrongPositive">
@@ -1402,7 +1424,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="14_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=14-->
       <opinion_holder/>
       <opinion_target>
         <!--La calidad-->
@@ -1424,7 +1447,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--este hotel-->
@@ -1442,22 +1466,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Staff">
-        <references>
-          <span>
-            <target id="t38"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Location">
-        <references>
-          <span>
-            <target id="t51"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

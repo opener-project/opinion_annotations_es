@@ -17,9 +17,10 @@
     </linguisticProcessors>
     <linguisticProcessors layer="features">
       <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:52CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:41CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:52CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:41CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2186,7 +2187,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="9_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=9-->
       <opinion_holder/>
       <opinion_target>
         <!--La respuesta del camping-->
@@ -2204,7 +2206,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder>
         <!--nos-->
         <span>
@@ -2229,7 +2232,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--detalles-->
@@ -2244,7 +2248,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--detalles-->
@@ -2259,7 +2264,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder>
         <!--Nos-->
         <span>

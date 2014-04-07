@@ -18,9 +18,10 @@
     </linguisticProcessors>
     <linguisticProcessors layer="features">
       <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:48CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:35CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:48CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1454,7 +1455,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder/>
       <opinion_target>
         <!--lo-->
@@ -1471,7 +1473,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="8_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=8-->
       <opinion_holder>
         <!--Me-->
         <span>
@@ -1494,7 +1497,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="15_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
         <!--se siente uno-->
@@ -1511,7 +1515,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="15_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
         <!--se siente uno-->
@@ -1530,7 +1535,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder>
         <!--Me-->
         <span>

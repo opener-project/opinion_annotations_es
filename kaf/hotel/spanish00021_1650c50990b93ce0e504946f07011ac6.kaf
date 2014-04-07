@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:47:40" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:54CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:45CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:54CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:45CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1009,8 +1009,20 @@
       <edge id="tre176" from="ter51" to="nter125"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Staff">
+        <references>
+          <span>
+            <target id="t46"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="9_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=9-->
       <opinion_holder>
         <!--nos-->
         <span>
@@ -1027,7 +1039,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="20_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=20-->
       <opinion_holder/>
       <opinion_target>
         <!--este hotel-->
@@ -1045,7 +1058,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target>
         <!--lo-->
@@ -1060,7 +1074,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="5_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=5-->
       <opinion_holder/>
       <opinion_target>
         <!--Hotel-->
@@ -1076,7 +1091,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="5_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=5-->
       <opinion_holder/>
       <opinion_target>
         <!--Hotel-->
@@ -1092,7 +1108,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--7 dias-->
@@ -1109,15 +1126,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Staff">
-        <references>
-          <span>
-            <target id="t46"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:52:46" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:55CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:46CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:55CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:46CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1424,8 +1424,27 @@
       <edge id="tre249" from="ter73" to="nter176"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t14"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Restaurant">
+        <references>
+          <span>
+            <target id="t36"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder/>
       <opinion_target>
         <!--lo demás-->
@@ -1441,7 +1460,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="24_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target>
         <!--este-->
@@ -1457,7 +1477,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="27_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=27-->
       <opinion_holder>
         <!--yo-->
         <span>
@@ -1480,7 +1501,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="27_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=27-->
       <opinion_holder>
         <!--yo-->
         <span>
@@ -1502,7 +1524,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="14_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=14-->
       <opinion_holder/>
       <opinion_target>
         <!--la comida-->
@@ -1518,7 +1541,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--las instalaciones-->
@@ -1535,7 +1559,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="StrongNegative">
@@ -1545,7 +1570,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--el hotel-->
@@ -1563,7 +1589,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--los jardines-->
@@ -1581,7 +1608,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--los jardines-->
@@ -1599,7 +1627,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="32_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Negative">
@@ -1610,7 +1639,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Negative">
@@ -1621,7 +1651,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="StrongNegative">
@@ -1632,22 +1663,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Interior/exterior">
-        <references>
-          <span>
-            <target id="t14"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Restaurant">
-        <references>
-          <span>
-            <target id="t36"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>

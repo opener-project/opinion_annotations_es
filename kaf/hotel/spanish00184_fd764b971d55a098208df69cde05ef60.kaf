@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:18:13" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:39:45CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:30CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:39:45CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:30CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1396,8 +1396,29 @@
       <edge id="tre246" from="ter69" to="nter177"/>
     </tree>
   </constituency>
+  <features>
+    <properties>
+      <property pid="p0" lemma="Staff">
+        <references>
+          <span>
+            <target id="t37"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t48"/>
+            <target id="t49"/>
+            <target id="t50"/>
+          </span>
+        </references>
+      </property>
+    </properties>
+  </features>
   <opinions>
-    <opinion oid="24_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="StrongPositive">
@@ -1408,7 +1429,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="13_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=13-->
       <opinion_holder>
         <!--me-->
         <span>
@@ -1431,7 +1453,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="22_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
         <!--días-->
@@ -1446,7 +1469,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="22_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
         <!--días-->
@@ -1463,7 +1487,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--comodidades del recinto-->
@@ -1481,7 +1506,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--comodidades del recinto-->
@@ -1498,7 +1524,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--vacaciones de relax-->
@@ -1515,7 +1542,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="8_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=8-->
       <opinion_holder/>
       <opinion_target>
         <!--elección-->
@@ -1531,24 +1559,4 @@
       </opinion_expression>
     </opinion>
   </opinions>
-  <features>
-    <properties>
-      <property pid="p0" lemma="Staff">
-        <references>
-          <span>
-            <target id="t37"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p1" lemma="Interior/exterior">
-        <references>
-          <span>
-            <target id="t48"/>
-            <target id="t49"/>
-            <target id="t50"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
 </KAF>
