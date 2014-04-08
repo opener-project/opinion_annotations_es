@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:05:51" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:42CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:42CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1524,7 +1524,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o1">
       <!--Tag opinion scope id=25-->
       <opinion_holder/>
       <opinion_target>
@@ -1547,7 +1547,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o2">
       <!--Tag opinion scope id=38-->
       <opinion_holder/>
       <opinion_target>
@@ -1567,7 +1567,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o3">
       <!--Tag opinion scope id=14-->
       <opinion_holder/>
       <opinion_target>
@@ -1586,103 +1586,23 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
-      <!--Tag opinion scope id=22-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--restaurantes-->
-        <span>
-          <target id="t33"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--sin necesidad de transporte público-->
-        <span>
-          <target id="t27"/>
-          <target id="t28"/>
-          <target id="t29"/>
-          <target id="t30"/>
-          <target id="t31"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
-      <!--Tag opinion scope id=22-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--turismo urbano-->
-        <span>
-          <target id="t37"/>
-          <target id="t38"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--sin necesidad de transporte público-->
-        <span>
-          <target id="t27"/>
-          <target id="t28"/>
-          <target id="t29"/>
-          <target id="t30"/>
-          <target id="t31"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o2">
-      <!--Tag opinion scope id=22-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--espectáculos-->
-        <span>
-          <target id="t35"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--sin necesidad de transporte público-->
-        <span>
-          <target id="t27"/>
-          <target id="t28"/>
-          <target id="t29"/>
-          <target id="t30"/>
-          <target id="t31"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o3">
-      <!--Tag opinion scope id=22-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--restaurantes-->
-        <span>
-          <target id="t33"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--Tienes a un paso-->
-        <span>
-          <target id="t22"/>
-          <target id="t23"/>
-          <target id="t24"/>
-          <target id="t25"/>
-        </span>
-      </opinion_expression>
-    </opinion>
     <opinion oid="o4">
       <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
-        <!--turismo urbano-->
+        <!--restaurantes-->
         <span>
-          <target id="t37"/>
-          <target id="t38"/>
+          <target id="t33"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
-        <!--Tienes a un paso-->
+        <!--sin necesidad de transporte público-->
         <span>
-          <target id="t22"/>
-          <target id="t23"/>
-          <target id="t24"/>
-          <target id="t25"/>
+          <target id="t27"/>
+          <target id="t28"/>
+          <target id="t29"/>
+          <target id="t30"/>
+          <target id="t31"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -1690,6 +1610,86 @@
       <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
+        <!--turismo urbano-->
+        <span>
+          <target id="t37"/>
+          <target id="t38"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--sin necesidad de transporte público-->
+        <span>
+          <target id="t27"/>
+          <target id="t28"/>
+          <target id="t29"/>
+          <target id="t30"/>
+          <target id="t31"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--espectáculos-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--sin necesidad de transporte público-->
+        <span>
+          <target id="t27"/>
+          <target id="t28"/>
+          <target id="t29"/>
+          <target id="t30"/>
+          <target id="t31"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o7">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--restaurantes-->
+        <span>
+          <target id="t33"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Tienes a un paso-->
+        <span>
+          <target id="t22"/>
+          <target id="t23"/>
+          <target id="t24"/>
+          <target id="t25"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o8">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--turismo urbano-->
+        <span>
+          <target id="t37"/>
+          <target id="t38"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Tienes a un paso-->
+        <span>
+          <target id="t22"/>
+          <target id="t23"/>
+          <target id="t24"/>
+          <target id="t25"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o9">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder/>
+      <opinion_target>
         <!--espectáculos-->
         <span>
           <target id="t35"/>
@@ -1705,7 +1705,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o10">
       <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
@@ -1721,7 +1721,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o11">
       <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
@@ -1737,7 +1737,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o12">
       <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target>
@@ -1753,7 +1753,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o13">
       <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target>
@@ -1769,7 +1769,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o14">
       <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target>

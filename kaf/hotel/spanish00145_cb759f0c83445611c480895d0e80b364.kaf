@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:16:04" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:36CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:27CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:36CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:27CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1483,7 +1483,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o1">
       <!--Tag opinion scope id=20-->
       <opinion_holder/>
       <opinion_target>
@@ -1503,7 +1503,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o2">
       <!--Tag opinion scope id=23-->
       <opinion_holder/>
       <opinion_target>
@@ -1521,7 +1521,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o3">
       <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
@@ -1541,7 +1541,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o4">
       <!--Tag opinion scope id=27-->
       <opinion_holder/>
       <opinion_target>
@@ -1559,7 +1559,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o5">
       <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
@@ -1575,7 +1575,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o6">
       <!--Tag opinion scope id=8-->
       <opinion_holder/>
       <opinion_target>

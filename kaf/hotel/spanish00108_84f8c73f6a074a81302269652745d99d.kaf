@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:50:32" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:31CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:24CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:31CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:24CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2889,7 +2889,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o20">
       <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target/>
@@ -2901,7 +2901,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o21">
       <!--Tag opinion scope id=48-->
       <opinion_holder/>
       <opinion_target>
@@ -2917,7 +2917,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o22">
       <!--Tag opinion scope id=48-->
       <opinion_holder/>
       <opinion_target>
@@ -2933,7 +2933,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o2">
+    <opinion oid="o23">
       <!--Tag opinion scope id=48-->
       <opinion_holder/>
       <opinion_target>
@@ -2949,7 +2949,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o24">
       <!--Tag opinion scope id=35-->
       <opinion_holder/>
       <opinion_target>
@@ -2966,7 +2966,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o25">
       <!--Tag opinion scope id=30-->
       <opinion_holder>
         <!--nos-->
@@ -2994,7 +2994,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o26">
       <!--Tag opinion scope id=30-->
       <opinion_holder>
         <!--nos-->

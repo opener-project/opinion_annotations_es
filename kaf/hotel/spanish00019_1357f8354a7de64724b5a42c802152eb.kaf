@@ -16,10 +16,10 @@
       <lp name="ehu-parse-es" timestamp="2014-02-24 12:47:36" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:30:42CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:30:42CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2885,7 +2885,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o1">
       <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
@@ -2902,7 +2902,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o2">
       <!--Tag opinion scope id=16-->
       <opinion_holder/>
       <opinion_target>
@@ -2919,61 +2919,6 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
-      <!--Tag opinion scope id=33-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--la chica de la mañana-->
-        <span>
-          <target id="t82"/>
-          <target id="t83"/>
-          <target id="t84"/>
-          <target id="t85"/>
-          <target id="t86"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy amable-->
-        <span>
-          <target id="t88"/>
-          <target id="t89"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
-      <!--Tag opinion scope id=33-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--recepcionistas-->
-        <span>
-          <target id="t80"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy amable-->
-        <span>
-          <target id="t88"/>
-          <target id="t89"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o2">
-      <!--Tag opinion scope id=33-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--personal-->
-        <span>
-          <target id="t77"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy amable-->
-        <span>
-          <target id="t88"/>
-          <target id="t89"/>
-        </span>
-      </opinion_expression>
-    </opinion>
     <opinion oid="o3">
       <!--Tag opinion scope id=33-->
       <opinion_holder/>
@@ -2987,10 +2932,11 @@
           <target id="t86"/>
         </span>
       </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--eficiente-->
+      <opinion_expression polarity="StrongPositive">
+        <!--muy amable-->
         <span>
-          <target id="t91"/>
+          <target id="t88"/>
+          <target id="t89"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -3003,10 +2949,11 @@
           <target id="t80"/>
         </span>
       </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--eficiente-->
+      <opinion_expression polarity="StrongPositive">
+        <!--muy amable-->
         <span>
-          <target id="t91"/>
+          <target id="t88"/>
+          <target id="t89"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -3019,112 +2966,165 @@
           <target id="t77"/>
         </span>
       </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--eficiente-->
+      <opinion_expression polarity="StrongPositive">
+        <!--muy amable-->
         <span>
-          <target id="t91"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o0">
-      <!--Tag opinion scope id=50-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--menaje-->
-        <span>
-          <target id="t129"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongNegative">
-        <!--horrible-->
-        <span>
-          <target id="t139"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
-      <!--Tag opinion scope id=50-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--la vajilla-->
-        <span>
-          <target id="t126"/>
-          <target id="t127"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongNegative">
-        <!--horrible-->
-        <span>
-          <target id="t139"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o2">
-      <!--Tag opinion scope id=50-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--todo-->
-        <span>
-          <target id="t133"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongNegative">
-        <!--horrible-->
-        <span>
-          <target id="t139"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o3">
-      <!--Tag opinion scope id=50-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--menaje-->
-        <span>
-          <target id="t129"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Negative">
-        <!--sucio-->
-        <span>
-          <target id="t135"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o4">
-      <!--Tag opinion scope id=50-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--la vajilla-->
-        <span>
-          <target id="t126"/>
-          <target id="t127"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Negative">
-        <!--sucio-->
-        <span>
-          <target id="t135"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o5">
-      <!--Tag opinion scope id=50-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--todo-->
-        <span>
-          <target id="t133"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Negative">
-        <!--sucio-->
-        <span>
-          <target id="t135"/>
+          <target id="t88"/>
+          <target id="t89"/>
         </span>
       </opinion_expression>
     </opinion>
     <opinion oid="o6">
+      <!--Tag opinion scope id=33-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--la chica de la mañana-->
+        <span>
+          <target id="t82"/>
+          <target id="t83"/>
+          <target id="t84"/>
+          <target id="t85"/>
+          <target id="t86"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--eficiente-->
+        <span>
+          <target id="t91"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o7">
+      <!--Tag opinion scope id=33-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--recepcionistas-->
+        <span>
+          <target id="t80"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--eficiente-->
+        <span>
+          <target id="t91"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o8">
+      <!--Tag opinion scope id=33-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--personal-->
+        <span>
+          <target id="t77"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--eficiente-->
+        <span>
+          <target id="t91"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o9">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--menaje-->
+        <span>
+          <target id="t129"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongNegative">
+        <!--horrible-->
+        <span>
+          <target id="t139"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o10">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--la vajilla-->
+        <span>
+          <target id="t126"/>
+          <target id="t127"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongNegative">
+        <!--horrible-->
+        <span>
+          <target id="t139"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o11">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--todo-->
+        <span>
+          <target id="t133"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongNegative">
+        <!--horrible-->
+        <span>
+          <target id="t139"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o12">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--menaje-->
+        <span>
+          <target id="t129"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Negative">
+        <!--sucio-->
+        <span>
+          <target id="t135"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o13">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--la vajilla-->
+        <span>
+          <target id="t126"/>
+          <target id="t127"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Negative">
+        <!--sucio-->
+        <span>
+          <target id="t135"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o14">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--todo-->
+        <span>
+          <target id="t133"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Negative">
+        <!--sucio-->
+        <span>
+          <target id="t135"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o15">
       <!--Tag opinion scope id=50-->
       <opinion_holder/>
       <opinion_target>
@@ -3140,7 +3140,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o7">
+    <opinion oid="o16">
       <!--Tag opinion scope id=50-->
       <opinion_holder/>
       <opinion_target>
@@ -3157,7 +3157,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o8">
+    <opinion oid="o17">
       <!--Tag opinion scope id=50-->
       <opinion_holder/>
       <opinion_target>
@@ -3173,7 +3173,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o18">
       <!--Tag opinion scope id=46-->
       <opinion_holder/>
       <opinion_target>
@@ -3191,7 +3191,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o19">
       <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target>
@@ -3209,7 +3209,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o20">
       <!--Tag opinion scope id=63-->
       <opinion_holder/>
       <opinion_target>
@@ -3227,7 +3227,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o21">
       <!--Tag opinion scope id=64-->
       <opinion_holder/>
       <opinion_target>
@@ -3243,7 +3243,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o22">
       <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
@@ -3261,7 +3261,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o23">
       <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
@@ -3284,7 +3284,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o24">
       <!--Tag opinion scope id=65-->
       <opinion_holder/>
       <opinion_target>
@@ -3303,7 +3303,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o25">
       <!--Tag opinion scope id=65-->
       <opinion_holder/>
       <opinion_target>
