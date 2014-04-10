@@ -1,4 +1,4 @@
-w1	Decepción	Decepción	R		StrongNegative	2		0		0	2-very negative	1		0		0		0		0	0	true	1
+w1	Decepción	Decepción	R		StrongNegative	2	Opinion	33		0	2-very negative	1		0		0		0		0	0	true	1
 w20	habitación	habitación	G		OpinionTarget	3	Opinion	8	Rooms	4		0		0		0		0		0	19	true	2
 w21	el	el	N		OpinionTarget	5	Opinion	8	Rooms	6		0		0		0		0		0	20	true	2
 w22	suelo	suelo	N		OpinionTarget	5	Opinion	8	Rooms	6		0		0		0		0		0	21	true	2

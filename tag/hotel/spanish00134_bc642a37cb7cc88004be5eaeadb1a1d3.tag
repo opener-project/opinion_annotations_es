@@ -101,11 +101,11 @@ w105	una	una	O		OpinionTarget	59	Opinion	61		0		0		0		0		0		0	104	true	2
 w106	parada	parada	O		OpinionTarget	59	Opinion	61	Transportation	60		0		0		0		0		0	105	true	2
 w107	de	de	O		OpinionTarget	59	Opinion	61	Transportation	60		0		0		0		0		0	106	true	2
 w108	metro	metro	O		OpinionTarget	59	Opinion	61	Transportation	60		0		0		0		0		0	107	true	2
-w115	las	las	G		OpinionTarget	62		0		0		0		0		0		0		0	114	true	2
-w116	habitaciones	habitaciones	N		OpinionTarget	62		0	Rooms	63		0		0		0		0		0	115	true	2
-w117	estan	estan	V		StrongPositive	64		0		0		0		0		0		0		0	116	true	2
-w118	super	super	G		StrongPositive	64		0		0		0		0		0		0		0	117	true	2
-w119	insonorizasdas	insonorizasdas	N		StrongPositive	64		0	Noisiness	65		0		0		0		0		0	118	true	2
+w115	las	las	G		OpinionTarget	62	Opinion	71		0		0		0		0		0		0	114	true	2
+w116	habitaciones	habitaciones	N		OpinionTarget	62	Opinion	71	Rooms	63		0		0		0		0		0	115	true	2
+w117	estan	estan	V		StrongPositive	64	Opinion	71		0		0		0		0		0		0	116	true	2
+w118	super	super	G		StrongPositive	64	Opinion	71		0		0		0		0		0		0	117	true	2
+w119	insonorizasdas	insonorizasdas	N		StrongPositive	64	Opinion	71	Noisiness	65		0		0		0		0		0	118	true	2
 w120	me	me	Q		OpinionHolder	66	Opinion	68		0		0		0		0		0		0	119	true	2
 w121	encanto	encanto	P		StrongPositive	67	Opinion	68		0		0		0		0		0		0	120	true	2
 w122	volvere	volvere	G		Positive	69	Opinion	70		0		0		0		0		0		0	121	true	2

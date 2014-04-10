@@ -1,5 +1,5 @@
-w1	Madrid	Madrid	R		OpinionTarget	2		0	Location	3	8-positive	1		0		0		0		0	0	true	1
-w2	centro	centro	N		OpinionTarget	2		0	Location	3		0		0		0		0		0	1	true	1
+w1	Madrid	Madrid	R		Positive	38	Opinion	37	Location	3	8-positive	1		0		0		0		0	0	true	1
+w2	centro	centro	N		Positive	38	Opinion	37	Location	3		0		0		0		0		0	1	true	1
 w18	la	la	D		OpinionTarget	4	Opinion	7		0		0		0		0		0		0	17	true	2
 w19	experiencia	experiencia	N		OpinionTarget	4	Opinion	7		0		0		0		0		0		0	18	true	2
 w20	ha	ha	N			0	Opinion	7		0		0		0		0		0		0	19	true	2

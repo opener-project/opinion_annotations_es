@@ -3,11 +3,11 @@ w2	para	para	O		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	1	true	1
 w3	conocer	conocer	O		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	2	true	1
 w4	la	la	O		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	3	true	1
 w5	ciudad	ciudad	O		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	4	true	1
-w6	El	El	R		OpinionTarget	4		0		0		0		0		0		0		0	5	true	2
-w7	hotel	hotel	N		OpinionTarget	4		0		0		0		0		0		0		0	6	true	2
-w8	esta	esta	N		StrongPositive	5		0		0		0		0		0		0		0	7	true	2
-w9	muy	muy	G		StrongPositive	5		0	Location	6		0		0		0		0		0	8	true	2
-w10	centrico	centrico	N		StrongPositive	5		0	Location	6		0		0		0		0		0	9	true	2
+w6	El	El	R		OpinionTarget	4	Opinion	64		0		0		0		0		0		0	5	true	2
+w7	hotel	hotel	N		OpinionTarget	4	Opinion	64		0		0		0		0		0		0	6	true	2
+w8	esta	esta	N		StrongPositive	5	Opinion	64		0		0		0		0		0		0	7	true	2
+w9	muy	muy	G		StrongPositive	5	Opinion	64	Location	6		0		0		0		0		0	8	true	2
+w10	centrico	centrico	N		StrongPositive	5	Opinion	64	Location	6		0		0		0		0		0	9	true	2
 w12	en	en	O		Positive	7	Opinion	10		0		0		0		0		0		0	11	true	2
 w13	plena	plena	O		Positive	7	Opinion	10		0		0		0		0		0		0	12	true	2
 w14	Gran	Gran	R		OpinionTarget	8	Opinion	10	Location	9		0		0		0		0		0	13	true	2
@@ -51,10 +51,10 @@ w62	con	con	G		Positive	37	Opinion	38		0		0		0		0		0		0	61	true	5
 w63	decuento	decuento	N		Positive	37	Opinion	38		0		0		0		0		0		0	62	true	5
 w64	para	para	N		Positive	37	Opinion	38		0		0		0		0		0		0	63	true	5
 w65	clientes	clientes	N		Positive	37	Opinion	38		0		0		0		0		0		0	64	true	5
-w81	La	La	R		OpinionTarget	39		0		0		0		0		0		0		0	80	true	6
-w82	habitacion	habitacion	N		OpinionTarget	39		0	Rooms	40		0		0		0		0		0	81	true	6
-w83	perfectamente	perfectamente	A		StrongPositive	41		0		0		0		0		0		0		0	82	true	6
-w84	insonorizada	insonorizada	N		StrongPositive	41		0	Noisiness	42		0		0		0		0		0	83	true	6
+w81	La	La	R		OpinionTarget	39	Opinion	65		0		0		0		0		0		0	80	true	6
+w82	habitacion	habitacion	N		OpinionTarget	39	Opinion	65	Rooms	40		0		0		0		0		0	81	true	6
+w83	perfectamente	perfectamente	A		StrongPositive	41	Opinion	65		0		0		0		0		0		0	82	true	6
+w84	insonorizada	insonorizada	N		StrongPositive	41	Opinion	65	Noisiness	42		0		0		0		0		0	83	true	6
 w86	con	con	G		Positive	43	Opinion	50		0		0		0		0		0		0	85	true	6
 w87	minibar	minibar	N		OpinionTarget	44	Opinion	50	Facilities	45		0		0		0		0		0	86	true	6
 w88	gratuito	gratuito	N		OpinionTarget	44	Opinion	50		0		0		0		0		0		0	87	true	6

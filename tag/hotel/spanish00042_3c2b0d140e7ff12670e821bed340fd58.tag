@@ -1,4 +1,4 @@
-w1	Me	me	Q		OpinionHolder	2	Opinion	4		0		0		0		0		0		0	0	true	1
+w1	Me	me	Q		OpinionHolder	2	Opinion	4		0	9-very positive	21		0		0		0		0	0	true	1
 w2	encantó	encantó	V		StrongPositive	3	Opinion	4		0		0		0		0		0		0	1	true	1
 w24	me	me	Q		OpinionHolder	5	Opinion	12		0		0		0		0		0		0	23	true	2
 w25	quede	quede	V			0	Opinion	12		0		0		0		0		0		0	24	true	2

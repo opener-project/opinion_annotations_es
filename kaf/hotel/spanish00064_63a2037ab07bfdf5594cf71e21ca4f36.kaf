@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:11:13" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:26CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:06CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:26CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:06CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1050,22 +1050,6 @@
       </opinion_expression>
     </opinion>
     <opinion oid="o3">
-      <!--Tag opinion scope id=8-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--hotel-->
-        <span>
-          <target id="t21"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--buen-->
-        <span>
-          <target id="t20"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o4">
       <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target>
@@ -1082,39 +1066,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o5">
-      <!--Tag opinion scope id=5-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--hotel-->
-        <span>
-          <target id="t2"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--Buen-->
-        <span>
-          <target id="t1"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o6">
-      <!--Tag opinion scope id=5-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--spa-->
-        <span>
-          <target id="t4"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--Buen-->
-        <span>
-          <target id="t1"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o7">
+    <opinion oid="o4">
       <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
@@ -1131,7 +1083,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o8">
+    <opinion oid="o5">
       <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
@@ -1145,6 +1097,70 @@
         <span>
           <target id="t28"/>
           <target id="t29"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
+      <!--Tag opinion scope id=28-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--Lo-->
+        <span>
+          <target id="t45"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--recomiendo-->
+        <span>
+          <target id="t46"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o7">
+      <!--Tag opinion scope id=5-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--hotel-->
+        <span>
+          <target id="t2"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Buen-->
+        <span>
+          <target id="t1"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o8">
+      <!--Tag opinion scope id=5-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--spa-->
+        <span>
+          <target id="t4"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Buen-->
+        <span>
+          <target id="t1"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o9">
+      <!--Tag opinion scope id=8-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--hotel-->
+        <span>
+          <target id="t21"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--buen-->
+        <span>
+          <target id="t20"/>
         </span>
       </opinion_expression>
     </opinion>

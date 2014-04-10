@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:13:22" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:29CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:29CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1506,25 +1506,6 @@
   </features>
   <opinions>
     <opinion oid="o0">
-      <!--Tag opinion scope id=8-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--ubicado-->
-        <span>
-          <target id="t9"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--en una zona tranquila-->
-        <span>
-          <target id="t10"/>
-          <target id="t11"/>
-          <target id="t12"/>
-          <target id="t13"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
       <!--Tag opinion scope id=26-->
       <opinion_holder>
         <!--nos-->
@@ -1550,7 +1531,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o2">
+    <opinion oid="o1">
       <!--Tag opinion scope id=26-->
       <opinion_holder>
         <!--nos-->
@@ -1575,7 +1556,72 @@
         </span>
       </opinion_expression>
     </opinion>
+    <opinion oid="o2">
+      <!--Tag opinion scope id=33-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--restaurantes-->
+        <span>
+          <target id="t22"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--asequibles-->
+        <span>
+          <target id="t23"/>
+        </span>
+      </opinion_expression>
+    </opinion>
     <opinion oid="o3">
+      <!--Tag opinion scope id=18-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--bares-->
+        <span>
+          <target id="t20"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--con-->
+        <span>
+          <target id="t19"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o4">
+      <!--Tag opinion scope id=34-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--del metro-->
+        <span>
+          <target id="t16"/>
+          <target id="t17"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--cerca-->
+        <span>
+          <target id="t15"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Tag opinion scope id=4-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--hotel-->
+        <span>
+          <target id="t7"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Buen-->
+        <span>
+          <target id="t6"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
       <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target>
@@ -1595,7 +1641,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o4">
+    <opinion oid="o7">
       <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target>
@@ -1614,7 +1660,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o5">
+    <opinion oid="o8">
       <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target>
@@ -1640,19 +1686,22 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o6">
-      <!--Tag opinion scope id=4-->
+    <opinion oid="o9">
+      <!--Tag opinion scope id=8-->
       <opinion_holder/>
       <opinion_target>
-        <!--hotel-->
+        <!--ubicado-->
         <span>
-          <target id="t7"/>
+          <target id="t9"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
-        <!--Buen-->
+        <!--en una zona tranquila-->
         <span>
-          <target id="t6"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
         </span>
       </opinion_expression>
     </opinion>

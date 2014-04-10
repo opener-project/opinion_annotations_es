@@ -24,5 +24,5 @@ w40	lo	lo	G		Negative	23	Opinion	24		0		0		0		0		0		0	39	true	4
 w41	grande	grande	N		Negative	23	Opinion	24		0		0		0		0		0		0	40	true	4
 w42	que	que	N		Negative	23	Opinion	24		0		0		0		0		0		0	41	true	4
 w43	es	es	N		Negative	23	Opinion	24		0		0		0		0		0		0	42	true	4
-w45	Lo	Lo	R		OpinionTarget	25		0		0		0		0		0		0		0	44	true	5
-w46	recomiendo	recomiendo	N		Positive	26		0		0		0		0		0		0		0	45	true	5
+w45	Lo	Lo	R		OpinionTarget	25	Opinion	28		0		0		0		0		0		0	44	true	5
+w46	recomiendo	recomiendo	N		Positive	26	Opinion	28		0		0		0		0		0		0	45	true	5

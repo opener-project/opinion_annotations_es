@@ -25,11 +25,11 @@ w26	tiene	tiene	V		Positive	20	Opinion	23		0		0		0		0		0		0	25	true	2
 w27	spa	spa	N		OpinionTarget	21	Opinion	23	Facilities	35		0		0		0		0		0	26	true	2
 w28	de	de	P		Negative	22	Opinion	23		0		0		0		0		0		0	27	true	2
 w29	pago.	pago.	N		Negative	22	Opinion	23		0		0		0		0		0		0	28	true	2
-w30	desyuno	desyuno	N		OpinionTarget	24		0	Breakfast	26		0		0		0		0		0	29	true	2
-w31	buffet	buffet	N		Positive	25		0		0		0		0		0		0		0	30	true	2
-w32	con	con	A		Positive	25		0		0		0		0		0		0		0	31	true	2
-w33	amplia	amplia	G		Positive	25		0		0		0		0		0		0		0	32	true	2
-w34	variedad.	variedad.	N		Positive	25		0		0		0		0		0		0		0	33	true	2
+w30	desyuno	desyuno	N		OpinionTarget	24	Opinion	36	Breakfast	26		0		0		0		0		0	29	true	2
+w31	buffet	buffet	N		Positive	25	Opinion	36		0		0		0		0		0		0	30	true	2
+w32	con	con	A		Positive	25	Opinion	36		0		0		0		0		0		0	31	true	2
+w33	amplia	amplia	G		Positive	25	Opinion	36		0		0		0		0		0		0	32	true	2
+w34	variedad.	variedad.	N		Positive	25	Opinion	36		0		0		0		0		0		0	33	true	2
 w37	muy	muy	G		Positive	27	Opinion	29	Location	28		0		0		0		0		0	36	true	2
 w38	centrico	centrico	N		Positive	27	Opinion	29	Location	28		0		0		0		0		0	37	true	2
 w39	buena	buena	N		Positive	31	Opinion	32		0		0		0		0		0		0	38	true	2

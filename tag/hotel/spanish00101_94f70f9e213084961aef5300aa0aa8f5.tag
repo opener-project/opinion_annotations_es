@@ -6,14 +6,14 @@ w10	en	en	P		Positive	7	Opinion	8		0		0		0		0		0		0	9	true	2
 w11	una	una	G		Positive	7	Opinion	8		0		0		0		0		0		0	10	true	2
 w12	zona	zona	N		Positive	7	Opinion	8		0		0		0		0		0		0	11	true	2
 w13	tranquila	tranquila	N		Positive	7	Opinion	8		0		0		0		0		0		0	12	true	2
-w15	cerca	cerca	O		Positive	9		0		0		0		0		0		0		0	14	true	2
-w16	del	del	O		OpinionTarget	10		0		0		0		0		0		0		0	15	true	2
-w17	metro	metro	O		OpinionTarget	10		0	Location	11		0		0		0		0		0	16	true	2
+w15	cerca	cerca	O		Positive	9	Opinion	34		0		0		0		0		0		0	14	true	2
+w16	del	del	O		OpinionTarget	10	Opinion	34		0		0		0		0		0		0	15	true	2
+w17	metro	metro	O		OpinionTarget	10	Opinion	34	Location	11		0		0		0		0		0	16	true	2
 w19	con	con	A		Positive	12	Opinion	18		0		0		0		0		0		0	18	true	2
 w20	bares	bare	V		OpinionTarget	13	Opinion	18	Location	14		0		0		0		0		0	19	true	2
-w21	y	y	G			0	Opinion	18		0		0		0		0		0		0	20	true	2
-w22	restaurantes	restaurantes	N		OpinionTarget	15	Opinion	18	Location	16		0		0		0		0		0	21	true	2
-w23	asequibles	asequibles	N		Positive	17	Opinion	18		0		0		0		0		0		0	22	true	2
+w21	y	y	G			0		0		0		0		0		0		0		0	20	true	2
+w22	restaurantes	restaurantes	N		OpinionTarget	15	Opinion	33	Location	16		0		0		0		0		0	21	true	2
+w23	asequibles	asequibles	N		Positive	17	Opinion	33		0		0		0		0		0		0	22	true	2
 w25	el	el	N		OpinionTarget	19	Opinion	26		0		0		0		0		0		0	24	true	2
 w26	servicio	servicio	N		OpinionTarget	19	Opinion	26	Staff	20		0		0		0		0		0	25	true	2
 w27	y	y	G			0	Opinion	26		0		0		0		0		0		0	26	true	2

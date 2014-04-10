@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:11:44" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:28CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:07CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:28CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:07CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1561,6 +1561,29 @@
         <span>
           <target id="t46"/>
           <target id="t47"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o8">
+      <!--Tag opinion scope id=23-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t10"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--el hotel-->
+        <span>
+          <target id="t8"/>
+          <target id="t9"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Negative">
+        <!--decepciono bastante-->
+        <span>
+          <target id="t11"/>
+          <target id="t12"/>
         </span>
       </opinion_expression>
     </opinion>

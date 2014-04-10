@@ -44,7 +44,7 @@ w50	de	de	O		OpinionTarget	27	Opinion	30		0		0		0		0		0		0	49	false	5
 w51	desayuno	desayuno	O		OpinionTarget	27	Opinion	30	Breakfast	28		0		0		0		0		0	50	true	5
 w52	muy	muy	G		StrongPositive	29	Opinion	30		0		0		0		0		0		0	51	true	5
 w53	completo	completo	N		StrongPositive	29	Opinion	30		0		0		0		0		0		0	52	true	5
-w55	con	con	O		StrongPositive	37		0		0		0		0		0		0		0	54	true	5
+w55	con	con	O			0		0		0		0		0		0		0		0	54	true	5
 w56	mucha	mucha	O		StrongPositive	37	Opinion	36		0		0		0		0		0		0	55	true	5
 w57	variedad	variedad	O		StrongPositive	37	Opinion	36		0		0		0		0		0		0	56	true	5
 w58	de	de	O			0	Opinion	36		0		0		0		0		0		0	57	true	5

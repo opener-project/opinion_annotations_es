@@ -1,4 +1,4 @@
-w1	Bonito	Bonito	R		Positive	1	Opinion	3		0		0		0		0		0		0	0	true	1
+w1	Bonito	Bonito	R		Positive	1	Opinion	3		0	8-positive	28		0		0		0		0	0	true	1
 w2	hotel	hotel	N		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	1	true	1
 w3	en	en	P		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	2	true	1
 w4	Madrid	Madrid	R		OpinionTarget	2	Opinion	3		0		0		0		0		0		0	3	true	1

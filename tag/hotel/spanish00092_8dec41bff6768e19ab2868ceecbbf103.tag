@@ -1,6 +1,6 @@
-w1	Apartamentos	Apartamentos	R		OpinionTarget	2		0		0	9-very positive	1		0		0		0		0	0	true	1
-w2	alta	alta	N		StrongPositive	3	Opinion	4		0		0		0		0		0		0	1	true	1
-w3	calidad	calidad	N		StrongPositive	3	Opinion	4		0		0		0		0		0		0	2	true	1
+w1	Apartamentos	Apartamentos	R		OpinionTarget	2	Opinion	24		0	9-very positive	1		0		0		0		0	0	true	1
+w2	alta	alta	N		StrongPositive	3	Opinion	24		0		0		0		0		0		0	1	true	1
+w3	calidad	calidad	N		StrongPositive	3	Opinion	24		0		0		0		0		0		0	2	true	1
 w4	Apartamentos	apartamentos	O		OpinionTarget	5	Opinion	7		0		0		0		0		0		0	3	true	2
 w5	de	de	O		StrongPositive	6	Opinion	7		0		0		0		0		0		0	4	true	2
 w6	lujo	lujo	O		StrongPositive	6	Opinion	7		0		0		0		0		0		0	5	true	2

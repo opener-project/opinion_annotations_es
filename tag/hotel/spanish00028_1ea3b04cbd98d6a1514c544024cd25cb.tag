@@ -11,13 +11,13 @@ w17	la	la	O		OpinionTarget	11	Opinion	13		0		0		0		0		0		0	16	true	3
 w18	calidad	calidad	O		OpinionTarget	11	Opinion	13		0		0		0		0		0		0	17	true	3
 w19	es	es	O			0	Opinion	13		0		0		0		0		0		0	18	true	3
 w20	inmejorable	inmejorable	O		StrongPositive	12	Opinion	13		0		0		0		0		0		0	19	true	3
-w22	La	La	R		OpinionTarget	14		0		0		0		0		0		0		0	21	false	4
-w23	habitación	habitación	N		OpinionTarget	14		0	Rooms	15		0		0		0		0		0	22	true	4
-w24	tenía	tenía	N		Positive	16		0		0		0		0		0		0		0	23	false	4
-w25	todo	todo	P		Positive	16		0	Facilities	17		0		0		0		0		0	24	true	4
-w26	tipo	tipo	O		Positive	16		0	Facilities	17		0		0		0		0		0	25	true	4
-w27	de	de	O		Positive	16		0	Facilities	17		0		0		0		0		0	26	true	4
-w28	comodidades	comodidades	O		Positive	16		0	Facilities	17		0		0		0		0		0	27	true	4
+w22	La	La	R		OpinionTarget	14	Opinion	23		0		0		0		0		0		0	21	true	4
+w23	habitación	habitación	N		OpinionTarget	14	Opinion	23	Rooms	15		0		0		0		0		0	22	true	4
+w24	tenía	tenía	N		Positive	16	Opinion	23		0		0		0		0		0		0	23	true	4
+w25	todo	todo	P		Positive	16	Opinion	23	Facilities	17		0		0		0		0		0	24	true	4
+w26	tipo	tipo	O		Positive	16	Opinion	23	Facilities	17		0		0		0		0		0	25	true	4
+w27	de	de	O		Positive	16	Opinion	23	Facilities	17		0		0		0		0		0	26	true	4
+w28	comodidades	comodidades	O		Positive	16	Opinion	23	Facilities	17		0		0		0		0		0	27	true	4
 w31	muy	muy	G		StrongPositive	22	Opinion	21		0		0		0		0		0		0	30	true	4
 w32	contentos	contentos	N		StrongPositive	22	Opinion	21		0		0		0		0		0		0	31	true	4
 w33	con	con	G			0	Opinion	21		0		0		0		0		0		0	32	true	4

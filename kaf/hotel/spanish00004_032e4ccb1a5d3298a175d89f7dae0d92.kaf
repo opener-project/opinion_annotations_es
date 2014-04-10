@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:05:59" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:25CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:05CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:25CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:05CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -841,6 +841,22 @@
   </features>
   <opinions>
     <opinion oid="o0">
+      <!--Tag opinion scope id=9-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--calidades-->
+        <span>
+          <target id="t6"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--excelente-->
+        <span>
+          <target id="t5"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
       <!--Tag opinion scope id=19-->
       <opinion_holder/>
       <opinion_target>
@@ -863,7 +879,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o2">
       <!--Tag opinion scope id=19-->
       <opinion_holder/>
       <opinion_target>
@@ -886,7 +902,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o2">
+    <opinion oid="o3">
       <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target>
@@ -903,7 +919,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o3">
+    <opinion oid="o4">
       <!--Tag opinion scope id=13-->
       <opinion_holder/>
       <opinion_target>
@@ -921,6 +937,26 @@
           <target id="t33"/>
           <target id="t34"/>
           <target id="t35"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Tag opinion scope id=21-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--servicios-->
+        <span>
+          <target id="t8"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--a disposicion de los clientes.-->
+        <span>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
         </span>
       </opinion_expression>
     </opinion>

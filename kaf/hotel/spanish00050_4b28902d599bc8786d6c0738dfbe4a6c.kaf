@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:10:23" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:27CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:06CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:27CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:06CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -943,44 +943,37 @@
   </features>
   <opinions>
     <opinion oid="o0">
-      <!--Tag opinion scope id=19-->
-      <opinion_holder>
-        <!--me-->
-        <span>
-          <target id="t34"/>
-        </span>
-      </opinion_holder>
+      <!--Tag opinion scope id=24-->
+      <opinion_holder/>
       <opinion_target>
-        <!--el equipo de música-->
+        <!--Un hotel-->
         <span>
-          <target id="t36"/>
-          <target id="t37"/>
-          <target id="t38"/>
-          <target id="t39"/>
+          <target id="t1"/>
+          <target id="t2"/>
         </span>
       </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--gustó-->
+      <opinion_expression polarity="StrongPositive">
+        <!--encantador-->
         <span>
-          <target id="t35"/>
+          <target id="t3"/>
         </span>
       </opinion_expression>
     </opinion>
     <opinion oid="o1">
-      <!--Tag opinion scope id=23-->
+      <!--Tag opinion scope id=25-->
       <opinion_holder/>
       <opinion_target>
-        <!--El desayuno-->
+        <!--El personal-->
         <span>
-          <target id="t41"/>
-          <target id="t42"/>
+          <target id="t14"/>
+          <target id="t15"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="StrongPositive">
-        <!--muy bueno-->
+        <!--muy amable-->
         <span>
-          <target id="t43"/>
-          <target id="t44"/>
+          <target id="t16"/>
+          <target id="t17"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -1020,6 +1013,48 @@
       </opinion_expression>
     </opinion>
     <opinion oid="o4">
+      <!--Tag opinion scope id=23-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--El desayuno-->
+        <span>
+          <target id="t41"/>
+          <target id="t42"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--muy bueno-->
+        <span>
+          <target id="t43"/>
+          <target id="t44"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Tag opinion scope id=19-->
+      <opinion_holder>
+        <!--me-->
+        <span>
+          <target id="t34"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--el equipo de música-->
+        <span>
+          <target id="t36"/>
+          <target id="t37"/>
+          <target id="t38"/>
+          <target id="t39"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--gustó-->
+        <span>
+          <target id="t35"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
       <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>

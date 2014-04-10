@@ -1,4 +1,4 @@
-w1	Increible	Increible	R		StrongPositive	2		0		0	9-very positive	1		0		0		0		0	0	true	1
+w1	Increible	Increible	R		StrongPositive	2	Opinion	15		0	9-very positive	1		0		0		0		0	0	true	1
 w3	La	La	R		OpinionTarget	3	Opinion	5		0		0		0		0		0		0	2	true	2
 w4	estancia	estancia	N		OpinionTarget	3	Opinion	5		0		0		0		0		0		0	3	true	2
 w5	en	en	P		OpinionTarget	3	Opinion	5		0		0		0		0		0		0	4	true	2

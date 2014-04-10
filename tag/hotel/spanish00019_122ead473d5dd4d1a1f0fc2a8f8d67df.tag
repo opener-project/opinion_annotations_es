@@ -1,6 +1,6 @@
-w1	Correcto	Correcto	R		Positive	2		0		0	8-positive	1		0		0		0		0	0	true	1
-w2	del	del	D		Positive	2		0		0		0		0		0		0		0	1	true	1
-w3	todo	todo	N		Positive	2		0		0		0		0		0		0		0	2	true	1
+w1	Correcto	Correcto	R		Positive	2	Opinion	35		0	8-positive	1		0		0		0		0	0	true	1
+w2	del	del	D		Positive	2	Opinion	35		0		0		0		0		0		0	1	true	1
+w3	todo	todo	N		Positive	2	Opinion	35		0		0		0		0		0		0	2	true	1
 w5	genial	genial	G		StrongPositive	3	Opinion	5		0		0		0		0		0		0	4	true	1
 w6	si	si	N			0	Opinion	5		0		0		0		0		0		0	5	true	1
 w7	viajas	viajas	P			0	Opinion	5		0		0		0		0		0		0	6	true	1

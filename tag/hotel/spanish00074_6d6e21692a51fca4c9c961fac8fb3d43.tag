@@ -5,11 +5,11 @@ w4	desear	desear	V		StrongNegative	2	Opinion	3		0		0		0		0		0		0	3	true	1
 w5	para	para	N		StrongNegative	2	Opinion	3		0		0		0		0		0		0	4	true	1
 w6	sus	sus	N		StrongNegative	2	Opinion	3		0		0		0		0		0		0	5	true	1
 w7	estrellas	estrellas	N		StrongNegative	2	Opinion	3		0		0		0		0		0		0	6	true	1
-w8	el	el	N		OpinionTarget	4		0		0		0		0		0		0		0	7	true	2
-w9	hotel	hotel	N		OpinionTarget	4		0		0		0		0		0		0		0	8	true	2
-w10	me	me	Q		OpinionHolder	5		0		0		0		0		0		0		0	9	true	2
-w11	decepciono	decepciono	V		Negative	6		0		0		0		0		0		0		0	10	true	2
-w12	bastante	bastante	G		Negative	6		0		0		0		0		0		0		0	11	true	2
+w8	el	el	N		OpinionTarget	4	Opinion	23		0		0		0		0		0		0	7	true	2
+w9	hotel	hotel	N		OpinionTarget	4	Opinion	23		0		0		0		0		0		0	8	true	2
+w10	me	me	Q		OpinionHolder	5	Opinion	23		0		0		0		0		0		0	9	true	2
+w11	decepciono	decepciono	V		Negative	6	Opinion	23		0		0		0		0		0		0	10	true	2
+w12	bastante	bastante	G		Negative	6	Opinion	23		0		0		0		0		0		0	11	true	2
 w35	El	El	R		OpinionTarget	7	Opinion	10		0		0		0		0		0		0	34	true	3
 w36	servicio	servicio	N		OpinionTarget	7	Opinion	10	Staff	8		0		0		0		0		0	35	true	3
 w37	de	de	P		OpinionTarget	7	Opinion	10	Staff	8		0		0		0		0		0	36	true	3

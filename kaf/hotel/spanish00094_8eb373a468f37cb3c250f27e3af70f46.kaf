@@ -20,10 +20,10 @@
       <lp name="corefgraph-es" timestamp="2014-01-14T17:12:53" version="0.8"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>

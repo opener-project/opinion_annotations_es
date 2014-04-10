@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:12:39" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:31CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:11CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:31CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:11CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1447,6 +1447,22 @@
         <!--perfectamente-->
         <span>
           <target id="t43"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o7">
+      <!--Tag opinion scope id=27-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--servicio-->
+        <span>
+          <target id="t2"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Buen-->
+        <span>
+          <target id="t1"/>
         </span>
       </opinion_expression>
     </opinion>

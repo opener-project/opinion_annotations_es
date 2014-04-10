@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:06:54" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2946,49 +2946,42 @@
           </span>
         </references>
       </property>
-      <property pid="p3" lemma="Interior/exterior">
-        <references>
-          <span>
-            <target id="t86"/>
-          </span>
-        </references>
-      </property>
-      <property pid="p4" lemma="Facilities">
+      <property pid="p3" lemma="Facilities">
         <references>
           <span>
             <target id="t102"/>
           </span>
         </references>
       </property>
-      <property pid="p5" lemma="Staff">
+      <property pid="p4" lemma="Staff">
         <references>
           <span>
             <target id="t144"/>
           </span>
         </references>
       </property>
-      <property pid="p6" lemma="Facilities">
+      <property pid="p5" lemma="Facilities">
         <references>
           <span>
             <target id="t17"/>
           </span>
         </references>
       </property>
-      <property pid="p7" lemma="Facilities">
+      <property pid="p6" lemma="Facilities">
         <references>
           <span>
             <target id="t56"/>
           </span>
         </references>
       </property>
-      <property pid="p8" lemma="Breakfast">
+      <property pid="p7" lemma="Breakfast">
         <references>
           <span>
             <target id="t148"/>
           </span>
         </references>
       </property>
-      <property pid="p9" lemma="Rooms">
+      <property pid="p8" lemma="Rooms">
         <references>
           <span>
             <target id="t65"/>
@@ -3069,23 +3062,50 @@
       </opinion_expression>
     </opinion>
     <opinion oid="o4">
-      <!--Tag opinion scope id=31-->
+      <!--Tag opinion scope id=48-->
       <opinion_holder/>
       <opinion_target>
-        <!--el personal-->
+        <!--la azote-->
         <span>
-          <target id="t143"/>
-          <target id="t144"/>
+          <target id="t76"/>
+          <target id="t77"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="StrongPositive">
-        <!--fenomenal-->
+        <!--tiene unas vistas espectaculares-->
         <span>
-          <target id="t145"/>
+          <target id="t84"/>
+          <target id="t85"/>
+          <target id="t86"/>
+          <target id="t87"/>
         </span>
       </opinion_expression>
     </opinion>
     <opinion oid="o5">
+      <!--Tag opinion scope id=44-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--el agua-->
+        <span>
+          <target id="t103"/>
+          <target id="t104"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Negative">
+        <!--estava un poco turvia por no decir sucia-->
+        <span>
+          <target id="t105"/>
+          <target id="t106"/>
+          <target id="t107"/>
+          <target id="t108"/>
+          <target id="t109"/>
+          <target id="t110"/>
+          <target id="t111"/>
+          <target id="t112"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
       <!--Tag opinion scope id=43-->
       <opinion_holder/>
       <opinion_target>
@@ -3103,7 +3123,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o6">
+    <opinion oid="o7">
       <!--Tag opinion scope id=43-->
       <opinion_holder/>
       <opinion_target>
@@ -3123,7 +3143,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o7">
+    <opinion oid="o8">
       <!--Tag opinion scope id=35-->
       <opinion_holder/>
       <opinion_target>
@@ -3141,7 +3161,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o8">
+    <opinion oid="o9">
       <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
@@ -3156,6 +3176,23 @@
         <span>
           <target id="t30"/>
           <target id="t31"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o10">
+      <!--Tag opinion scope id=31-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--el personal-->
+        <span>
+          <target id="t143"/>
+          <target id="t144"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--fenomenal-->
+        <span>
+          <target id="t145"/>
         </span>
       </opinion_expression>
     </opinion>

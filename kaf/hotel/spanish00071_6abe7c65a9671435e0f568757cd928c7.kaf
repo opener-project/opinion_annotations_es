@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:11:34" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:33CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:13CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:33CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:13CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -942,23 +942,6 @@
   </features>
   <opinions>
     <opinion oid="o0">
-      <!--Tag opinion scope id=10-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--la playa-->
-        <span>
-          <target id="t32"/>
-          <target id="t33"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--saliendo-->
-        <span>
-          <target id="t30"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
       <!--Tag opinion scope id=5-->
       <opinion_holder/>
       <opinion_target>
@@ -977,6 +960,17 @@
         <!--perfecta-->
         <span>
           <target id="t11"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=15-->
+      <opinion_holder/>
+      <opinion_target/>
+      <opinion_expression polarity="StrongPositive">
+        <!--Increible-->
+        <span>
+          <target id="t1"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -1001,6 +995,23 @@
         <!--con-->
         <span>
           <target id="t35"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o3">
+      <!--Tag opinion scope id=10-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--la playa-->
+        <span>
+          <target id="t32"/>
+          <target id="t33"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--saliendo-->
+        <span>
+          <target id="t30"/>
         </span>
       </opinion_expression>
     </opinion>

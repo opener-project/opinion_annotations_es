@@ -1,5 +1,5 @@
-w1	Buen	Buen	R		Positive	2		0		0	9-very positive	1		0		0		0		0	0	true	1
-w2	servicio	servicio	N		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	1	true	1
+w1	Buen	Buen	R		Positive	2	Opinion	27		0	9-very positive	1		0		0		0		0	0	true	1
+w2	servicio	servicio	N		OpinionTarget	3	Opinion	27		0		0		0		0		0		0	1	true	1
 w4	todo	todo	P		StrongPositive	11	Opinion	12		0		0		0		0		0		0	3	true	1
 w5	muy	muy	V		StrongPositive	11	Opinion	12		0		0		0		0		0		0	4	true	1
 w6	limpio	limpio	N		StrongPositive	11	Opinion	12		0		0		0		0		0		0	5	true	1

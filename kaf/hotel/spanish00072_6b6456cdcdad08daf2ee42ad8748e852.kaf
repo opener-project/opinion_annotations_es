@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:11:37" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:30CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:09CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2062,6 +2062,42 @@
       </opinion_expression>
     </opinion>
     <opinion oid="o8">
+      <!--Tag opinion scope id=50-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--personal-->
+        <span>
+          <target id="t12"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--muy bien-->
+        <span>
+          <target id="t13"/>
+          <target id="t14"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o9">
+      <!--Tag opinion scope id=40-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--la abitacion-->
+        <span>
+          <target id="t78"/>
+          <target id="t79"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Negative">
+        <!--no nos limpiaba-->
+        <span>
+          <target id="t75"/>
+          <target id="t76"/>
+          <target id="t77"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o10">
       <!--Tag opinion scope id=36-->
       <opinion_holder/>
       <opinion_target>
@@ -2080,7 +2116,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o9">
+    <opinion oid="o11">
       <!--Tag opinion scope id=36-->
       <opinion_holder/>
       <opinion_target>
@@ -2097,7 +2133,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o10">
+    <opinion oid="o12">
       <!--Tag opinion scope id=36-->
       <opinion_holder/>
       <opinion_target>
@@ -2119,26 +2155,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o11">
-      <!--Tag opinion scope id=40-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--la abitacion-->
-        <span>
-          <target id="t78"/>
-          <target id="t79"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Negative">
-        <!--no nos limpiaba-->
-        <span>
-          <target id="t75"/>
-          <target id="t76"/>
-          <target id="t77"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o12">
+    <opinion oid="o13">
       <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
@@ -2154,7 +2171,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o13">
+    <opinion oid="o14">
       <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>

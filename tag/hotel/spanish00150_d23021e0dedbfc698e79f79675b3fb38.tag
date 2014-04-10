@@ -1,6 +1,6 @@
-w1	Excelencia	Excelencia	R		StrongPositive	1		0		0	9-very positive	2		0		0		0		0	0	true	1
-w2	con	con	N		StrongPositive	1		0		0		0		0		0		0		0	1	true	1
-w3	alternativas	alternativas	N		StrongPositive	1		0		0		0		0		0		0		0	2	true	1
+w1	Excelencia	Excelencia	R		StrongPositive	1	Opinion	14		0	9-very positive	2		0		0		0		0	0	true	1
+w2	con	con	N		StrongPositive	1	Opinion	14		0		0		0		0		0		0	1	true	1
+w3	alternativas	alternativas	N		StrongPositive	1	Opinion	14		0		0		0		0		0		0	2	true	1
 w25	me	me	Q		OpinionHolder	3	Opinion	7		0		0		0		0		0		0	24	true	2
 w26	sentí	sentí	V		Positive	4	Opinion	7		0		0		0		0		0		0	25	true	2
 w27	feliz	feliz	G		Positive	4	Opinion	7		0		0		0		0		0		0	26	true	2

@@ -6,9 +6,9 @@ w6	recomiendo	recomiendo	V		Positive	6	Opinion	7		0		0		0		0		0		0	5	true	2
 w8	el	el	N		OpinionTarget	8	Opinion	11		0		0		0		0		0		0	7	true	3
 w9	hotel	hotel	N		OpinionTarget	8	Opinion	11		0		0		0		0		0		0	8	true	3
 w10	hermoso	hermoso	N		StrongPositive	9	Opinion	11		0		0		0		0		0		0	9	true	3
-w12	personal	personal	G		OpinionTarget	12		0	Staff	13		0		0		0		0		0	11	true	3
-w13	muy	muy	G		StrongPositive	14		0		0		0		0		0		0		0	12	true	3
-w14	bien	bien	G		StrongPositive	14		0		0		0		0		0		0		0	13	true	3
+w12	personal	personal	G		OpinionTarget	12	Opinion	50	Staff	13		0		0		0		0		0	11	true	3
+w13	muy	muy	G		StrongPositive	14	Opinion	50		0		0		0		0		0		0	12	true	3
+w14	bien	bien	G		StrongPositive	14	Opinion	50		0		0		0		0		0		0	13	true	3
 w15	la	la	N		OpinionTarget	15	Opinion	18		0		0		0		0		0		0	14	true	3
 w16	gerenta	gerenta	N		OpinionTarget	15	Opinion	18	Staff	16		0		0		0		0		0	15	true	3
 w17	felicia	felicia	V			0	Opinion	18		0		0		0		0		0		0	16	true	3

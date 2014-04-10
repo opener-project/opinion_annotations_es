@@ -34,32 +34,32 @@ w67	cual	cual	G			0	Opinion	11		0		0		0		0		0		0	66	true	3
 w68	era	era	N			0	Opinion	11		0		0		0		0		0		0	67	true	3
 w69	muy	muy	O		StrongPositive	36	Opinion	11		0		0		0		0		0		0	68	true	3
 w70	buena	buena	V		StrongPositive	36	Opinion	11		0		0		0		0		0		0	69	true	3
-w76	la	la	O		OpinionTarget	12	Opinion	16		0		0		0		0		0		0	75	false	3
-w77	azote	azote	O		OpinionTarget	12	Opinion	16	Interior/exterior	17		0		0		0		0		0	76	true	3
-w78	la	la	O			0	Opinion	16		0		0		0		0		0		0	77	true	3
-w79	cual	cual	G			0	Opinion	16		0		0		0		0		0		0	78	true	3
-w80	e	e	N			0	Opinion	16		0		0		0		0		0		0	79	true	3
-w81	de	de	P			0	Opinion	16		0		0		0		0		0		0	80	true	3
-w82	decir	decir	Q			0	Opinion	16		0		0		0		0		0		0	81	true	3
-w83	que	que	G			0	Opinion	16		0		0		0		0		0		0	82	true	3
-w84	tiene	tiene	N		Positive	13	Opinion	16		0		0		0		0		0		0	83	true	3
-w85	unas	unas	G		OpinionTarget	15	Opinion	16		0		0		0		0		0		0	84	true	3
-w86	vistas	vista	N		OpinionTarget	15	Opinion	16	Interior/exterior	44		0		0		0		0		0	85	true	3
-w87	espectaculares	espectaculares	V		StrongPositive	37	Opinion	16		0		0		0		0		0		0	86	true	3
+w76	la	la	O		OpinionTarget	12	Opinion	48		0		0		0		0		0		0	75	true	3
+w77	azote	azote	O		OpinionTarget	12	Opinion	48	Interior/exterior	17		0		0		0		0		0	76	true	3
+w78	la	la	O			0	Opinion	48		0		0		0		0		0		0	77	true	3
+w79	cual	cual	G			0	Opinion	48		0		0		0		0		0		0	78	true	3
+w80	e	e	N			0	Opinion	48		0		0		0		0		0		0	79	true	3
+w81	de	de	P			0	Opinion	48		0		0		0		0		0		0	80	true	3
+w82	decir	decir	Q			0	Opinion	48		0		0		0		0		0		0	81	true	3
+w83	que	que	G			0	Opinion	48		0		0		0		0		0		0	82	true	3
+w84	tiene	tiene	N		StrongPositive	47	Opinion	48		0		0		0		0		0		0	83	true	3
+w85	unas	unas	G		StrongPositive	47	Opinion	48		0		0		0		0		0		0	84	true	3
+w86	vistas	vista	N		StrongPositive	47	Opinion	48		0		0		0		0		0		0	85	false	3
+w87	espectaculares	espectaculares	V		StrongPositive	47	Opinion	48		0		0		0		0		0		0	86	true	3
 w99	estaban	estaban	O		Positive	19	Opinion	21		0		0		0		0		0		0	98	false	3
 w100	los	los	O		OpinionTarget	20	Opinion	21		0		0		0		0		0		0	99	false	3
 w101	2	2	O		OpinionTarget	20	Opinion	21		0		0		0		0		0		0	100	false	3
 w102	jacuzzy	jacuzzy	G		OpinionTarget	20	Opinion	21	Facilities	45		0		0		0		0		0	101	true	3
-w103	el	el	N		Negative	22		0		0		0		0		0		0		0	102	false	3
-w104	agua	agua	O		Negative	22		0		0		0		0		0		0		0	103	false	3
-w105	estava	estava	O		Negative	22		0		0		0		0		0		0		0	104	false	3
-w106	un	un	G		Negative	22		0		0		0		0		0		0		0	105	false	3
-w107	poco	poco	N		Negative	22		0		0		0		0		0		0		0	106	false	3
-w108	turvia	turvia	N		Negative	22		0		0		0		0		0		0		0	107	false	3
-w109	por	por	N		Negative	22		0		0		0		0		0		0		0	108	false	3
-w110	no	no	D		Negative	22		0		0		0		0		0		0		0	109	false	3
-w111	decir	decir	N		Negative	22		0		0		0		0		0		0		0	110	false	3
-w112	sucia	sucia	N		Negative	22		0		0		0		0		0		0		0	111	false	3
+w103	el	el	N		OpinionTarget	37	Opinion	44		0		0		0		0		0		0	102	true	3
+w104	agua	agua	O		OpinionTarget	37	Opinion	44		0		0		0		0		0		0	103	true	3
+w105	estava	estava	O		Negative	22	Opinion	44		0		0		0		0		0		0	104	true	3
+w106	un	un	G		Negative	22	Opinion	44		0		0		0		0		0		0	105	true	3
+w107	poco	poco	N		Negative	22	Opinion	44		0		0		0		0		0		0	106	true	3
+w108	turvia	turvia	N		Negative	22	Opinion	44		0		0		0		0		0		0	107	true	3
+w109	por	por	N		Negative	22	Opinion	44		0		0		0		0		0		0	108	true	3
+w110	no	no	D		Negative	22	Opinion	44		0		0		0		0		0		0	109	true	3
+w111	decir	decir	N		Negative	22	Opinion	44		0		0		0		0		0		0	110	true	3
+w112	sucia	sucia	N		Negative	22	Opinion	44		0		0		0		0		0		0	111	true	3
 w116	ninguno	ninguno	O		OpinionTarget	25	Opinion	27	Facilities	46		0		0		0		0		0	115	true	3
 w117	de	de	O		OpinionTarget	25	Opinion	27		0		0		0		0		0		0	116	true	3
 w118	los	los	O		OpinionTarget	25	Opinion	27		0		0		0		0		0		0	117	true	3

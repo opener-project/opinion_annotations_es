@@ -1,4 +1,4 @@
-w1	Gratificante	Gratificante	R		Positive	2		0		0	8-positive	1		0		0		0		0	0	true	1
+w1	Gratificante	Gratificante	R		Positive	2	Opinion	12		0	8-positive	1		0		0		0		0	0	true	1
 w3	una	una	G		OpinionTarget	3	Opinion	5		0		0		0		0		0		0	2	true	2
 w4	estancia	estancia	N		OpinionTarget	3	Opinion	5		0		0		0		0		0		0	3	true	2
 w5	de	de	P		StrongPositive	4	Opinion	5		0		0		0		0		0		0	4	true	2

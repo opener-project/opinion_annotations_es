@@ -19,15 +19,15 @@ w22	dormir	dormir	G		OpinionTarget	11	Opinion	14		0		0		0		0		0		0	21	true	3
 w23	tranquilo	tranquilo	N		Positive	12	Opinion	14	Noisiness	13		0		0		0		0		0	22	true	3
 w26	buen	buen	N		Positive	15	Opinion	17		0		0		0		0		0		0	25	true	3
 w27	lugar	lugar	N		OpinionTarget	16	Opinion	17		0		0		0		0		0		0	26	true	3
-w31	valencia	valencia	N		Positive	26		0		0		0		0		0		0		0	30	true	4
-w32	no	no	D		Positive	26	Opinion	20		0		0		0		0		0		0	31	true	4
-w33	es	es	V		Positive	26	Opinion	20		0		0		0		0		0		0	32	true	4
-w34	muy	muy	G		Positive	26	Opinion	20		0		0		0		0		0		0	33	true	4
-w35	dificil	dificil	N		Positive	26	Opinion	20		0		0		0		0		0		0	34	true	4
-w36	encontrar	encontrar	G		Positive	26	Opinion	20		0		0		0		0		0		0	35	true	4
-w37	donde	donde	N		OpinionTarget	19	Opinion	20	Location	24		0		0		0		0		0	36	true	4
-w38	tomar	tomar	N		OpinionTarget	19	Opinion	20	Location	24		0		0		0		0		0	37	true	4
-w39	algo	algo	A		OpinionTarget	19	Opinion	20	Location	24		0		0		0		0		0	38	true	4
+w31	valencia	valencia	N			0		0		0		0		0		0		0		0	30	true	4
+w32	no	no	D		Positive	26	Opinion	27		0		0		0		0		0		0	31	true	4
+w33	es	es	V		Positive	26	Opinion	27		0		0		0		0		0		0	32	true	4
+w34	muy	muy	G		Positive	26	Opinion	27		0		0		0		0		0		0	33	true	4
+w35	dificil	dificil	N		Positive	26	Opinion	27		0		0		0		0		0		0	34	true	4
+w36	encontrar	encontrar	G		Positive	26	Opinion	27		0		0		0		0		0		0	35	true	4
+w37	donde	donde	N		OpinionTarget	19	Opinion	27	Location	24		0		0		0		0		0	36	true	4
+w38	tomar	tomar	N		OpinionTarget	19	Opinion	27	Location	24		0		0		0		0		0	37	true	4
+w39	algo	algo	A		OpinionTarget	19	Opinion	27	Location	24		0		0		0		0		0	38	true	4
 w41	a	a	D		Positive	21	Opinion	23		0		0		0		0		0		0	40	true	4
 w42	menos	menos	N		Positive	21	Opinion	23		0		0		0		0		0		0	41	true	4
 w43	de	de	P		Positive	21	Opinion	23		0		0		0		0		0		0	42	true	4

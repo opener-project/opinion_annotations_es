@@ -35,9 +35,9 @@ w43	para	para	O		Negative	20	Opinion	21		0		0		0		0		0		0	42	true	3
 w44	un	un	G		Negative	20	Opinion	21		0		0		0		0		0		0	43	true	3
 w45	cuatro	cuatro	N		Negative	20	Opinion	21		0		0		0		0		0		0	44	true	3
 w46	estrellas.	estrellas.	N		Negative	20	Opinion	21		0		0		0		0		0		0	45	true	3
-w48	descansa	descansa	O		OpinionTarget	22		0	Noisiness	24		0		0		0		0		0	47	true	3
-w49	muy	muy	O		Positive	23		0		0		0		0		0		0		0	48	false	3
-w50	bien	bien	O		Positive	23		0		0		0		0		0		0		0	49	false	3
+w48	descansa	descansa	O		OpinionTarget	22	Opinion	32	Noisiness	24		0		0		0		0		0	47	true	3
+w49	muy	muy	O		Positive	23	Opinion	32		0		0		0		0		0		0	48	true	3
+w50	bien	bien	O		Positive	23	Opinion	32		0		0		0		0		0		0	49	true	3
 w52	esta	esta	O		Negative	25	Opinion	29		0		0		0		0		0		0	51	true	3
 w53	en	en	O		Negative	25	Opinion	29		0		0		0		0		0		0	52	true	3
 w54	plena	plena	O		Negative	25	Opinion	29		0		0		0		0		0		0	53	true	3

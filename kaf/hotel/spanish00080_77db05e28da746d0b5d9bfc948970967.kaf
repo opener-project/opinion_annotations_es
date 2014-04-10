@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:12:06" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:23CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:02CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:23CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:02CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -989,65 +989,6 @@
   </features>
   <opinions>
     <opinion oid="o0">
-      <!--Tag opinion scope id=9-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--la habitación-->
-        <span>
-          <target id="t6"/>
-          <target id="t7"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--acojedora-->
-        <span>
-          <target id="t8"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
-      <!--Tag opinion scope id=19-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--muchas zonas de ocio-->
-        <span>
-          <target id="t23"/>
-          <target id="t24"/>
-          <target id="t25"/>
-          <target id="t26"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy bien situado cerca-->
-        <span>
-          <target id="t18"/>
-          <target id="t19"/>
-          <target id="t20"/>
-          <target id="t21"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o2">
-      <!--Tag opinion scope id=19-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--centros comerciales-->
-        <span>
-          <target id="t28"/>
-          <target id="t29"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--muy bien situado cerca-->
-        <span>
-          <target id="t18"/>
-          <target id="t19"/>
-          <target id="t20"/>
-          <target id="t21"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o3">
       <!--Tag opinion scope id=27-->
       <opinion_holder/>
       <opinion_target>
@@ -1070,7 +1011,90 @@
         </span>
       </opinion_expression>
     </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=23-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--La atencion-->
+        <span>
+          <target id="t31"/>
+          <target id="t32"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--de calidad-->
+        <span>
+          <target id="t35"/>
+          <target id="t36"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o2">
+      <!--Tag opinion scope id=19-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--muchas zonas de ocio-->
+        <span>
+          <target id="t23"/>
+          <target id="t24"/>
+          <target id="t25"/>
+          <target id="t26"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--muy bien situado cerca-->
+        <span>
+          <target id="t18"/>
+          <target id="t19"/>
+          <target id="t20"/>
+          <target id="t21"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o3">
+      <!--Tag opinion scope id=19-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--centros comerciales-->
+        <span>
+          <target id="t28"/>
+          <target id="t29"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--muy bien situado cerca-->
+        <span>
+          <target id="t18"/>
+          <target id="t19"/>
+          <target id="t20"/>
+          <target id="t21"/>
+        </span>
+      </opinion_expression>
+    </opinion>
     <opinion oid="o4">
+      <!--Tag opinion scope id=28-->
+      <opinion_holder>
+        <!--Me-->
+        <span>
+          <target id="t9"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--este hotel-->
+        <span>
+          <target id="t13"/>
+          <target id="t14"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--gustado mucho-->
+        <span>
+          <target id="t11"/>
+          <target id="t12"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
       <!--Tag opinion scope id=5-->
       <opinion_holder/>
       <opinion_target>
@@ -1087,21 +1111,20 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o5">
-      <!--Tag opinion scope id=23-->
+    <opinion oid="o6">
+      <!--Tag opinion scope id=9-->
       <opinion_holder/>
       <opinion_target>
-        <!--La atencion-->
+        <!--la habitación-->
         <span>
-          <target id="t31"/>
-          <target id="t32"/>
+          <target id="t6"/>
+          <target id="t7"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
-        <!--de calidad-->
+        <!--acojedora-->
         <span>
-          <target id="t35"/>
-          <target id="t36"/>
+          <target id="t8"/>
         </span>
       </opinion_expression>
     </opinion>

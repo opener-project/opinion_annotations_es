@@ -20,4 +20,4 @@ w20	lugares	lugares	O		OpinionTarget	10	Opinion	12	Location	11		0		0		0		0		0	19
 w21	centricos	centricos	O		OpinionTarget	10	Opinion	12	Location	11		0		0		0		0		0	20	true	2
 w22	de	de	O		OpinionTarget	10	Opinion	12		0		0		0		0		0		0	21	true	2
 w23	Madrid	Madrid	R		OpinionTarget	10	Opinion	12		0		0		0		0		0		0	22	true	2
-w41	Recomendable	recomendable	G		Positive	13		0		0		0		0		0		0		0	40	true	3
+w41	Recomendable	recomendable	G		Positive	13	Opinion	14		0		0		0		0		0		0	40	true	3

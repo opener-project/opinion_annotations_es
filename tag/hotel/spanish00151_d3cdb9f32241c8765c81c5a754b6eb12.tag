@@ -21,9 +21,9 @@ w23	las	las	O		OpinionTarget	12	Opinion	15		0		0		0		0		0		0	22	true	2
 w24	habitaciones	habitaciones	N		OpinionTarget	12	Opinion	15	Rooms	13		0		0		0		0		0	23	true	2
 w25	son	son	N		Positive	14	Opinion	15		0		0		0		0		0		0	24	true	2
 w26	destacables	destacables	N		Positive	14	Opinion	15		0		0		0		0		0		0	25	true	2
-w29	adoro	adoro	O		StrongPositive	16		0		0		0		0		0		0		0	28	true	3
-w30	las	las	O		OpinionTarget	17		0		0		0		0		0		0		0	29	true	3
-w31	alhomadas	alhomadas	O		OpinionTarget	17		0	Beds	18		0		0		0		0		0	30	true	3
+w29	adoro	adoro	O		StrongPositive	16	Opinion	45		0		0		0		0		0		0	28	true	3
+w30	las	las	O		OpinionTarget	17	Opinion	45		0		0		0		0		0		0	29	true	3
+w31	alhomadas	alhomadas	O		OpinionTarget	17	Opinion	45	Beds	18		0		0		0		0		0	30	true	3
 w40	si	si	N			0	Opinion	25		0		0		0		0		0		0	39	true	3
 w41	es	es	N			0	Opinion	25		0		0		0		0		0		0	40	true	3
 w42	posible	posible	G			0	Opinion	25		0		0		0		0		0		0	41	true	3

@@ -17,10 +17,10 @@
       <lp name="ehu-parse-es" timestamp="2014-01-14 17:08:33" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:27:23CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-10T10:50:02CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:27:23CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-10T10:50:02CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -874,17 +874,6 @@
       </opinion_expression>
     </opinion>
     <opinion oid="o1">
-      <!--Tag opinion scope id=3-->
-      <opinion_holder/>
-      <opinion_target/>
-      <opinion_expression polarity="StrongPositive">
-        <!--Perfecto-->
-        <span>
-          <target id="t1"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o2">
       <!--Tag opinion scope id=13-->
       <opinion_holder/>
       <opinion_target>
@@ -901,7 +890,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o3">
+    <opinion oid="o2">
       <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>
@@ -922,7 +911,39 @@
         </span>
       </opinion_expression>
     </opinion>
+    <opinion oid="o3">
+      <!--Tag opinion scope id=23-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--La habitación-->
+        <span>
+          <target id="t22"/>
+          <target id="t23"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--tenía todo tipo de comodidades-->
+        <span>
+          <target id="t24"/>
+          <target id="t25"/>
+          <target id="t26"/>
+          <target id="t27"/>
+          <target id="t28"/>
+        </span>
+      </opinion_expression>
+    </opinion>
     <opinion oid="o4">
+      <!--Tag opinion scope id=3-->
+      <opinion_holder/>
+      <opinion_target/>
+      <opinion_expression polarity="StrongPositive">
+        <!--Perfecto-->
+        <span>
+          <target id="t1"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
       <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
