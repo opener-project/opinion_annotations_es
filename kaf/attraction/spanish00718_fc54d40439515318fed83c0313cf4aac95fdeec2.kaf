@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="es" version="v1.opener">
+  <kafHeader>
+    <fileDesc/>
+    <linguisticProcessors layer="text">
+      <lp name="opener-sentence-splitter-es" timestamp="2014-02-10T12:16:03Z" version="0.0.1"/>
+      <lp name="opener-tokenizer-es" timestamp="2014-02-10T12:16:03Z" version="1.0.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="ehu-pos-en" timestamp="2014-02-10 13:16:04" version="1.0"/>
+      <lp name="Basic_polarity_tagger_with_pos" timestamp="2014-02-24T16:52:42CET" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ehu-nerc-es" timestamp="2014-02-24 16:52:42" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp name="ehu-parse-es" timestamp="2014-02-24 16:52:42" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-06-16T17:50:43CEST"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="opinions">
+      <lp name="Manual annotations" version="1.0" timestamp="2014-06-16T17:50:43CEST"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf wid="w1" sent="1" para="1" offset="0" length="3">Una</wf>
+    <wf wid="w2" sent="1" para="1" offset="4" length="4">joya</wf>
+    <wf wid="w3" sent="2" para="2" offset="9" length="2">Es</wf>
+    <wf wid="w4" sent="2" para="2" offset="12" length="2">la</wf>
+    <wf wid="w5" sent="2" para="2" offset="15" length="4">joya</wf>
+    <wf wid="w6" sent="2" para="2" offset="20" length="9">deportiva</wf>
+    <wf wid="w7" sent="2" para="2" offset="30" length="2">de</wf>
+    <wf wid="w8" sent="2" para="2" offset="33" length="6">Munich</wf>
+    <wf wid="w9" sent="2" para="2" offset="40" length="1">y</wf>
+    <wf wid="w10" sent="2" para="2" offset="42" length="2">de</wf>
+    <wf wid="w11" sent="2" para="2" offset="45" length="8">Alemania</wf>
+    <wf wid="w12" sent="2" para="2" offset="53" length="1">.</wf>
+    <wf wid="w13" sent="3" para="2" offset="55" length="6">Merece</wf>
+    <wf wid="w14" sent="3" para="2" offset="62" length="3">una</wf>
+    <wf wid="w15" sent="3" para="2" offset="66" length="6">visita</wf>
+    <wf wid="w16" sent="3" para="2" offset="73" length="4">para</wf>
+    <wf wid="w17" sent="3" para="2" offset="78" length="7">conocer</wf>
+    <wf wid="w18" sent="3" para="2" offset="86" length="2">su</wf>
+    <wf wid="w19" sent="3" para="2" offset="89" length="8">preciosa</wf>
+    <wf wid="w20" sent="3" para="2" offset="98" length="10">estructura</wf>
+    <wf wid="w21" sent="3" para="2" offset="108" length="1">.</wf>
+  </text>
+  <terms>
+    <!--Una-->
+    <term tid="t1" type="close" lemma="Una" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <!--joya-->
+    <term tid="t2" type="open" lemma="joya" pos="N" morphofeat="NN">
+      <sentiment resource="EHU_general_lexicon_italian" polarity="neutral"/>
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <!--Es-->
+    <term tid="t3" type="close" lemma="es" pos="O" morphofeat="FW">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <!--la-->
+    <term tid="t4" type="close" lemma="la" pos="O" morphofeat="FW">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <!--joya-->
+    <term tid="t5" type="close" lemma="joya" pos="O" morphofeat="FW">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <!--deportiva-->
+    <term tid="t6" type="close" lemma="deportiva" pos="O" morphofeat="FW">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <!--de-->
+    <term tid="t7" type="close" lemma="de" pos="O" morphofeat="FW">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <!--Munich-->
+    <term tid="t8" type="close" lemma="Munich" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <!--y-->
+    <term tid="t9" type="open" lemma="y" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <!--de-->
+    <term tid="t10" type="close" lemma="de" pos="P" morphofeat="IN">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <!--Alemania-->
+    <term tid="t11" type="close" lemma="Alemania" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <!--.-->
+    <term tid="t12" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <!--Merece-->
+    <term tid="t13" type="close" lemma="Merece" pos="R" morphofeat="NNP">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <!--una-->
+    <term tid="t14" type="open" lemma="una" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <!--visita-->
+    <term tid="t15" type="close" lemma="visita" pos="O" morphofeat="FW">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <!--para-->
+    <term tid="t16" type="close" lemma="para" pos="O" morphofeat="FW">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <!--conocer-->
+    <term tid="t17" type="close" lemma="conocer" pos="O" morphofeat="FW">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <!--su-->
+    <term tid="t18" type="close" lemma="su" pos="O" morphofeat="FW">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <!--preciosa-->
+    <term tid="t19" type="close" lemma="preciosa" pos="O" morphofeat="FW">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <!--estructura-->
+    <term tid="t20" type="close" lemma="estructura" pos="O" morphofeat="FW">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <!--.-->
+    <term tid="t21" type="close" lemma="." pos="O" morphofeat=".">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity eid="e1" type="location">
+      <references>
+        <!--Munich-->
+        <span>
+          <target id="t8"/>
+        </span>
+      </references>
+    </entity>
+    <entity eid="e2" type="location">
+      <references>
+        <!--Alemania-->
+        <span>
+          <target id="t11"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter1" label="TOP"/>
+      <nt id="nter2" label="SN"/>
+      <nt id="nter3" label="DI0FS0"/>
+      <nt id="nter4" label="GRUP.NOM"/>
+      <nt id="nter5" label="NC00000"/>
+      <!--Terminals-->
+      <!--Una-->
+      <t id="ter1">
+        <span>
+          <target id="t1"/>
+        </span>
+      </t>
+      <!--joya-->
+      <t id="ter2">
+        <span>
+          <target id="t2"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre2" from="nter2" to="nter1"/>
+      <edge id="tre3" from="nter3" to="nter2"/>
+      <edge id="tre4" from="ter1" to="nter3"/>
+      <edge id="tre5" from="nter4" to="nter2"/>
+      <edge id="tre6" from="nter5" to="nter4" head="yes"/>
+      <edge id="tre7" from="ter2" to="nter5"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter6" label="TOP"/>
+      <nt id="nter7" label="SENTENCE"/>
+      <nt id="nter8" label="GRUP.VERB"/>
+      <nt id="nter9" label="VSIP3S0"/>
+      <nt id="nter10" label="SN"/>
+      <nt id="nter11" label="DA0FS0"/>
+      <nt id="nter12" label="GRUP.NOM"/>
+      <nt id="nter13" label="NCFS000"/>
+      <nt id="nter14" label="S.A"/>
+      <nt id="nter15" label="GRUP.A"/>
+      <nt id="nter16" label="AQ0FS0"/>
+      <nt id="nter17" label="SP"/>
+      <nt id="nter18" label="SP"/>
+      <nt id="nter19" label="PREP"/>
+      <nt id="nter20" label="SPS00"/>
+      <nt id="nter21" label="SN"/>
+      <nt id="nter22" label="GRUP.NOM"/>
+      <nt id="nter23" label="NP0000P|PERSON"/>
+      <nt id="nter24" label="CONJ"/>
+      <nt id="nter25" label="CC"/>
+      <nt id="nter26" label="SP"/>
+      <nt id="nter27" label="PREP"/>
+      <nt id="nter28" label="SPS00"/>
+      <nt id="nter29" label="SN|LOCATION"/>
+      <nt id="nter30" label="GRUP.NOM"/>
+      <nt id="nter31" label="NP0000L|LOCATION"/>
+      <nt id="nter32" label="FP"/>
+      <!--Terminals-->
+      <!--Es-->
+      <t id="ter3">
+        <span>
+          <target id="t3"/>
+        </span>
+      </t>
+      <!--la-->
+      <t id="ter4">
+        <span>
+          <target id="t4"/>
+        </span>
+      </t>
+      <!--joya-->
+      <t id="ter5">
+        <span>
+          <target id="t5"/>
+        </span>
+      </t>
+      <!--deportiva-->
+      <t id="ter6">
+        <span>
+          <target id="t6"/>
+        </span>
+      </t>
+      <!--de-->
+      <t id="ter7">
+        <span>
+          <target id="t7"/>
+        </span>
+      </t>
+      <!--Munich-->
+      <t id="ter8">
+        <span>
+          <target id="t8"/>
+        </span>
+      </t>
+      <!--y-->
+      <t id="ter9">
+        <span>
+          <target id="t9"/>
+        </span>
+      </t>
+      <!--de-->
+      <t id="ter10">
+        <span>
+          <target id="t10"/>
+        </span>
+      </t>
+      <!--Alemania-->
+      <t id="ter11">
+        <span>
+          <target id="t11"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter12">
+        <span>
+          <target id="t12"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre9" from="nter7" to="nter6"/>
+      <edge id="tre10" from="nter8" to="nter7"/>
+      <edge id="tre11" from="nter9" to="nter8" head="yes"/>
+      <edge id="tre12" from="ter3" to="nter9"/>
+      <edge id="tre13" from="nter10" to="nter7"/>
+      <edge id="tre14" from="nter11" to="nter10"/>
+      <edge id="tre15" from="ter4" to="nter11"/>
+      <edge id="tre16" from="nter12" to="nter10"/>
+      <edge id="tre17" from="nter13" to="nter12"/>
+      <edge id="tre18" from="ter5" to="nter13"/>
+      <edge id="tre19" from="nter14" to="nter12"/>
+      <edge id="tre20" from="nter15" to="nter14"/>
+      <edge id="tre21" from="nter16" to="nter15" head="yes"/>
+      <edge id="tre22" from="ter6" to="nter16"/>
+      <edge id="tre23" from="nter17" to="nter12"/>
+      <edge id="tre24" from="nter18" to="nter17"/>
+      <edge id="tre25" from="nter19" to="nter18"/>
+      <edge id="tre26" from="nter20" to="nter19" head="yes"/>
+      <edge id="tre27" from="ter7" to="nter20"/>
+      <edge id="tre28" from="nter21" to="nter18"/>
+      <edge id="tre29" from="nter22" to="nter21"/>
+      <edge id="tre30" from="nter23" to="nter22" head="yes"/>
+      <edge id="tre31" from="ter8" to="nter23"/>
+      <edge id="tre32" from="nter24" to="nter17"/>
+      <edge id="tre33" from="nter25" to="nter24" head="yes"/>
+      <edge id="tre34" from="ter9" to="nter25"/>
+      <edge id="tre35" from="nter26" to="nter17"/>
+      <edge id="tre36" from="nter27" to="nter26"/>
+      <edge id="tre37" from="nter28" to="nter27" head="yes"/>
+      <edge id="tre38" from="ter10" to="nter28"/>
+      <edge id="tre39" from="nter29" to="nter26"/>
+      <edge id="tre40" from="nter30" to="nter29"/>
+      <edge id="tre41" from="nter31" to="nter30" head="yes"/>
+      <edge id="tre42" from="ter11" to="nter31"/>
+      <edge id="tre43" from="nter32" to="nter7"/>
+      <edge id="tre44" from="ter12" to="nter32"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter33" label="TOP"/>
+      <nt id="nter34" label="SENTENCE"/>
+      <nt id="nter35" label="GRUP.VERB"/>
+      <nt id="nter36" label="VMIP3S0"/>
+      <nt id="nter37" label="SN"/>
+      <nt id="nter38" label="DI0FS0"/>
+      <nt id="nter39" label="GRUP.NOM"/>
+      <nt id="nter40" label="NCFS000"/>
+      <nt id="nter41" label="SP"/>
+      <nt id="nter42" label="PREP"/>
+      <nt id="nter43" label="SPS00"/>
+      <nt id="nter44" label="S"/>
+      <nt id="nter45" label="INFINITIU"/>
+      <nt id="nter46" label="VMN0000"/>
+      <nt id="nter47" label="SN"/>
+      <nt id="nter48" label="DP3CS0"/>
+      <nt id="nter49" label="GRUP.NOM"/>
+      <nt id="nter50" label="S.A"/>
+      <nt id="nter51" label="GRUP.A"/>
+      <nt id="nter52" label="AQ0FS0"/>
+      <nt id="nter53" label="NCFS000"/>
+      <nt id="nter54" label="FP"/>
+      <!--Terminals-->
+      <!--Merece-->
+      <t id="ter13">
+        <span>
+          <target id="t13"/>
+        </span>
+      </t>
+      <!--una-->
+      <t id="ter14">
+        <span>
+          <target id="t14"/>
+        </span>
+      </t>
+      <!--visita-->
+      <t id="ter15">
+        <span>
+          <target id="t15"/>
+        </span>
+      </t>
+      <!--para-->
+      <t id="ter16">
+        <span>
+          <target id="t16"/>
+        </span>
+      </t>
+      <!--conocer-->
+      <t id="ter17">
+        <span>
+          <target id="t17"/>
+        </span>
+      </t>
+      <!--su-->
+      <t id="ter18">
+        <span>
+          <target id="t18"/>
+        </span>
+      </t>
+      <!--preciosa-->
+      <t id="ter19">
+        <span>
+          <target id="t19"/>
+        </span>
+      </t>
+      <!--estructura-->
+      <t id="ter20">
+        <span>
+          <target id="t20"/>
+        </span>
+      </t>
+      <!--.-->
+      <t id="ter21">
+        <span>
+          <target id="t21"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre46" from="nter34" to="nter33"/>
+      <edge id="tre47" from="nter35" to="nter34"/>
+      <edge id="tre48" from="nter36" to="nter35" head="yes"/>
+      <edge id="tre49" from="ter13" to="nter36"/>
+      <edge id="tre50" from="nter37" to="nter34"/>
+      <edge id="tre51" from="nter38" to="nter37"/>
+      <edge id="tre52" from="ter14" to="nter38"/>
+      <edge id="tre53" from="nter39" to="nter37"/>
+      <edge id="tre54" from="nter40" to="nter39"/>
+      <edge id="tre55" from="ter15" to="nter40"/>
+      <edge id="tre56" from="nter41" to="nter39"/>
+      <edge id="tre57" from="nter42" to="nter41"/>
+      <edge id="tre58" from="nter43" to="nter42" head="yes"/>
+      <edge id="tre59" from="ter16" to="nter43"/>
+      <edge id="tre60" from="nter44" to="nter41"/>
+      <edge id="tre61" from="nter45" to="nter44"/>
+      <edge id="tre62" from="nter46" to="nter45" head="yes"/>
+      <edge id="tre63" from="ter17" to="nter46"/>
+      <edge id="tre64" from="nter47" to="nter44"/>
+      <edge id="tre65" from="nter48" to="nter47"/>
+      <edge id="tre66" from="ter18" to="nter48"/>
+      <edge id="tre67" from="nter49" to="nter47"/>
+      <edge id="tre68" from="nter50" to="nter49"/>
+      <edge id="tre69" from="nter51" to="nter50"/>
+      <edge id="tre70" from="nter52" to="nter51" head="yes"/>
+      <edge id="tre71" from="ter19" to="nter52"/>
+      <edge id="tre72" from="nter53" to="nter49"/>
+      <edge id="tre73" from="ter20" to="nter53"/>
+      <edge id="tre74" from="nter54" to="nter34"/>
+      <edge id="tre75" from="ter21" to="nter54"/>
+    </tree>
+  </constituency>
+  <opinions>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=3-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--una visita-->
+        <span>
+          <target id="t14"/>
+          <target id="t15"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--Merece-->
+        <span>
+          <target id="t13"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Tag opinion scope id=6-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--estructura-->
+        <span>
+          <target id="t20"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--preciosa-->
+        <span>
+          <target id="t19"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
+</KAF>

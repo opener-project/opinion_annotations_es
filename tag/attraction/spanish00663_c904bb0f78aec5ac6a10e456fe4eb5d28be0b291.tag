@@ -1,0 +1,16 @@
+w1	Inprescindible	inprescindible	G			0		0		0		0	unknown	1		0		0		0	0	true	1
+w23	Mejor	Mejor	R			0	Non-Opinionated	2		0		0		0		0		0		0	22	true	3
+w24	hacerlo	hacerlo	N			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	3
+w25	temprano	temprano	N			0	Non-Opinionated	2		0		0		0		0		0		0	24	true	3
+w26	por	por	N			0	Non-Opinionated	2		0		0		0		0		0		0	25	true	3
+w27	aquello	aquello	O			0	Non-Opinionated	2		0		0		0		0		0		0	26	true	3
+w28	de	de	O			0	Non-Opinionated	2		0		0		0		0		0		0	27	true	3
+w29	que	que	O			0	Non-Opinionated	2		0		0		0		0		0		0	28	true	3
+w30	el	el	O			0	Non-Opinionated	2		0		0		0		0		0		0	29	true	3
+w31	sol	sol	O			0	Non-Opinionated	2		0		0		0		0		0		0	30	true	3
+w32	por	por	O			0	Non-Opinionated	2		0		0		0		0		0		0	31	true	3
+w33	esas	esas	O			0	Non-Opinionated	2		0		0		0		0		0		0	32	true	3
+w34	tierras	tierras	O			0	Non-Opinionated	2		0		0		0		0		0		0	33	true	3
+w35	,	,	O			0	Non-Opinionated	2		0		0		0		0		0		0	34	true	3
+w36	es	es	V			0	Non-Opinionated	2		0		0		0		0		0		0	35	true	3
+w37	implacable	implacable	G			0	Non-Opinionated	2		0		0		0		0		0		0	36	true	3

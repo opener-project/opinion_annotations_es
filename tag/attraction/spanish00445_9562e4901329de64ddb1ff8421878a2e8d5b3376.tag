@@ -1,0 +1,21 @@
+w1	Siempre	Siempre	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w32	Ahí	Ahí	R			0	Non-Opinionated	2		0		0		0		0		0		0	31	true	5
+w33	está	está	N			0	Non-Opinionated	2		0		0		0		0		0		0	32	true	5
+w34	,	,	O			0	Non-Opinionated	2		0		0		0		0		0		0	33	true	5
+w35	ahí	ahí	G			0	Non-Opinionated	2		0		0		0		0		0		0	34	true	5
+w36	está	está	N			0	Non-Opinionated	2		0		0		0		0		0		0	35	true	5
+w37	viendo	viendo	V			0	Non-Opinionated	2		0		0		0		0		0		0	36	true	5
+w38	pasar	pasar	N			0	Non-Opinionated	2		0		0		0		0		0		0	37	true	5
+w39	el	el	N			0	Non-Opinionated	2		0		0		0		0		0		0	38	true	5
+w40	tiempo	tiempo	O			0	Non-Opinionated	2		0		0		0		0		0		0	39	true	5
+w41	la	la	O			0	Non-Opinionated	2		0		0		0		0		0		0	40	true	5
+w42	Puerta	Puerta	R			0	Non-Opinionated	2		0		0		0		0		0		0	41	true	5
+w43	de	de	O			0	Non-Opinionated	2		0		0		0		0		0		0	42	true	5
+w44	Alcalá	Alcalá	R			0	Non-Opinionated	2		0		0		0		0		0		0	43	true	5
+w45	"	"	N			0	Non-Opinionated	2		0		0		0		0		0		0	44	true	5
+w46	cantan	cantan	N			0	Non-Opinionated	2		0		0		0		0		0		0	45	true	5
+w47	Ana	Ana	R			0	Non-Opinionated	2		0		0		0		0		0		0	46	true	5
+w48	Belén	Belén	R			0	Non-Opinionated	2		0		0		0		0		0		0	47	true	5
+w49	y	y	G			0	Non-Opinionated	2		0		0		0		0		0		0	48	true	5
+w50	Víctor	Víctor	R			0	Non-Opinionated	2		0		0		0		0		0		0	49	true	5
+w51	Manuel	Manuel	R			0	Non-Opinionated	2		0		0		0		0		0		0	50	true	5

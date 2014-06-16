@@ -1,0 +1,14 @@
+w1	interesante	interesante	G			0		0		0		0	museum	8		0		0		0	0	true	1
+w6	con	con	O			0	Non-Opinionated	10		0		0		0		0		0		0	5	true	2
+w7	formas	formas	O			0	Non-Opinionated	10		0		0		0		0		0		0	6	true	2
+w8	de	de	O			0	Non-Opinionated	10		0		0		0		0		0		0	7	true	2
+w9	juegos	juegos	O			0	Non-Opinionated	10		0		0		0		0		0		0	8	true	2
+w10	puedes	puedes	O			0	Non-Opinionated	10		0		0		0		0		0		0	9	true	2
+w11	aprender	aprender	O			0	Non-Opinionated	10		0		0		0		0		0		0	10	true	2
+w12	y	y	G			0	Non-Opinionated	10		0		0		0		0		0		0	11	true	2
+w13	vivir	vivir	N			0	Non-Opinionated	10		0		0		0		0		0		0	12	true	2
+w14	las	las	V			0	Non-Opinionated	10		0		0		0		0		0		0	13	true	2
+w15	experiencias	experiencias	N			0	Non-Opinionated	10		0		0		0		0		0		0	14	true	2
+w16	de	de	P			0	Non-Opinionated	10		0		0		0		0		0		0	15	true	2
+w17	los	los	N			0	Non-Opinionated	10		0		0		0		0		0		0	16	true	2
+w18	planetas	planetas	N			0	Non-Opinionated	10		0		0		0		0		0		0	17	true	2

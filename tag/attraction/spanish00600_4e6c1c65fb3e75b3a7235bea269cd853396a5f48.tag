@@ -1,0 +1,10 @@
+w1	Visita	Visita	R			0		0		0		0	tour(city/landscape)	3		0		0		0	0	true	1
+w16	Es	es	N			0	Non-Opinionated	1		0		0		0		0		0		0	15	true	3
+w17	otra	otra	G			0	Non-Opinionated	1		0		0		0		0		0		0	16	true	3
+w18	manera	manera	O			0	Non-Opinionated	1		0		0		0		0		0		0	17	true	3
+w19	de	de	O			0	Non-Opinionated	1		0		0		0		0		0		0	18	true	3
+w20	ver	ver	A			0	Non-Opinionated	1		0		0		0		0		0		0	19	true	3
+w21	los	los	N			0	Non-Opinionated	1		0		0		0		0		0		0	20	true	3
+w22	jardines	jardines	N			0	Non-Opinionated	1		0		0		0		0		0		0	21	true	3
+w23	del	del	O			0	Non-Opinionated	1		0		0		0		0		0		0	22	true	3
+w24	Alcázar	Alcázar	R			0	Non-Opinionated	1		0		0		0		0		0		0	23	true	3

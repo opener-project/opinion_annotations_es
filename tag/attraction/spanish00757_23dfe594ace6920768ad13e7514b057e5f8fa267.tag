@@ -1,0 +1,14 @@
+w1	NO	no	D			0		0		0		0	unknown	1		0		0		0	0	true	1
+w12	Asiste	asiste	V			0	Non-Opinionated	2		0		0		0		0		0		0	11	true	2
+w13	a	a	D			0	Non-Opinionated	2		0		0		0		0		0		0	12	true	2
+w14	ver	ver	A			0	Non-Opinionated	2		0		0		0		0		0		0	13	true	2
+w15	el	el	G			0	Non-Opinionated	2		0		0		0		0		0		0	14	true	2
+w16	partido	partido	N			0	Non-Opinionated	2		0		0		0		0		0		0	15	true	2
+w17	del	del	O			0	Non-Opinionated	2		0		0		0		0		0		0	16	true	2
+w18	Miami	Miami	R			0	Non-Opinionated	2		0		0		0		0		0		0	17	true	2
+w19	Heat	Heat	R			0	Non-Opinionated	2		0		0		0		0		0		0	18	true	2
+w20	vs	vs	N			0	Non-Opinionated	2		0		0		0		0		0		0	19	true	2
+w21	Wizards	Wizards	R			0	Non-Opinionated	2		0		0		0		0		0		0	20	true	2
+w22	el	el	N			0	Non-Opinionated	2		0		0		0		0		0		0	21	true	2
+w23	pasado	pasado	N			0	Non-Opinionated	2		0		0		0		0		0		0	22	true	2
+w24	03nov13	03nov13	O			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	2

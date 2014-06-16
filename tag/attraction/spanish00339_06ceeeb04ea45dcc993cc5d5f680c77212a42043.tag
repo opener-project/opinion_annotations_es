@@ -1,0 +1,15 @@
+w1	Símbolo	Símbolo	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w4	Uno	Uno	R		OpinionTarget	2	Opinion	6		0		0		0		0		0		0	3	true	2
+w5	de	de	O		OpinionTarget	2	Opinion	6		0		0		0		0		0		0	4	true	2
+w6	los	los	O		OpinionTarget	2	Opinion	6		0		0		0		0		0		0	5	true	2
+w7	símbolos	símbolos	O		OpinionTarget	2	Opinion	6		0		0		0		0		0		0	6	true	2
+w8	más	más	O		Positive	3	Opinion	6		0		0		0		0		0		0	7	true	2
+w9	característicos	característicos	O		Positive	3	Opinion	6		0		0		0		0		0		0	8	true	2
+w10	de	de	O		Positive	3	Opinion	6		0		0		0		0		0		0	9	true	2
+w11	Madrid.	madrid.	O		Positive	3	Opinion	6		0		0		0		0		0		0	10	true	2
+w12	bien	bien	O		Positive	5	Opinion	6		0		0		0		0		0		0	11	true	2
+w13	cuidada	cuidada	O		Positive	5	Opinion	6		0		0		0		0		0		0	12	true	2
+w15	con	con	N		Positive	7	Opinion	10		0		0		0		0		0		0	14	true	2
+w16	un	un	G		OpinionTarget	8	Opinion	10		0		0		0		0		0		0	15	true	2
+w17	espacio	espacio	N		OpinionTarget	8	Opinion	10		0		0		0		0		0		0	16	true	2
+w18	perfecto	perfecto	P		StrongPositive	9	Opinion	10		0		0		0		0		0		0	17	true	2

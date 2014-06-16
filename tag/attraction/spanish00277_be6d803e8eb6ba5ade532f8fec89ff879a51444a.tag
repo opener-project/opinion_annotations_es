@@ -1,0 +1,23 @@
+w1	historia	historia	Q			0		0		0		0	tour(city/landscape)	1		0		0		0	0	true	1
+w4	Caminar	Caminar	R		Positive	5	Opinion	7		0		0		0		0		0		0	3	true	2
+w5	por	por	N		Positive	5	Opinion	7		0		0		0		0		0		0	4	true	2
+w6	las	las	V		OpinionTarget	6	Opinion	7		0		0		0		0		0		0	5	true	2
+w7	callejas	callejas	N		OpinionTarget	6	Opinion	7		0		0		0		0		0		0	6	true	2
+w8	del	del	O		OpinionTarget	6	Opinion	7		0		0		0		0		0		0	7	true	2
+w9	Albayzin	Albayzin	R		OpinionTarget	6	Opinion	7		0		0		0		0		0		0	8	true	2
+w11	ver	ver	A		Positive	8	Opinion	10		0		0		0		0		0		0	10	true	2
+w12	los	los	V		OpinionTarget	9	Opinion	10		0		0		0		0		0		0	11	true	2
+w13	jardines	jardines	N		OpinionTarget	9	Opinion	10		0		0		0		0		0		0	12	true	2
+w15	intercambiar	intercambiar	G		Positive	11	Opinion	13		0		0		0		0		0		0	14	true	2
+w16	con	con	N		OpinionTarget	12	Opinion	13		0		0		0		0		0		0	15	true	2
+w17	su	su	N		OpinionTarget	12	Opinion	13		0		0		0		0		0		0	16	true	2
+w18	gente	gente	G		OpinionTarget	12	Opinion	13		0		0		0		0		0		0	17	true	2
+w21	una	una	G		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	20	true	2
+w22	visita	visita	N		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	21	true	2
+w23	que	que	V		Positive	3	Opinion	4		0		0		0		0		0		0	22	true	2
+w24	no	no	D		Positive	3	Opinion	4		0		0		0		0		0		0	23	true	2
+w25	se	se	N		Positive	3	Opinion	4		0		0		0		0		0		0	24	true	2
+w26	puede	puede	V		Positive	3	Opinion	4		0		0		0		0		0		0	25	true	2
+w27	dejar	dejar	A		Positive	3	Opinion	4		0		0		0		0		0		0	26	true	2
+w28	de	de	O		Positive	3	Opinion	4		0		0		0		0		0		0	27	true	2
+w29	hacer	hacer	O		Positive	3	Opinion	4		0		0		0		0		0		0	28	true	2

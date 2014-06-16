@@ -1,0 +1,20 @@
+w1	Emblema	Emblema	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w24	No	no	D			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	5
+w25	es	es	V			0	Non-Opinionated	2		0		0		0		0		0		0	24	true	5
+w26	necesario	necesario	N			0	Non-Opinionated	2		0		0		0		0		0		0	25	true	5
+w27	ir	ir	Q			0	Non-Opinionated	2		0		0		0		0		0		0	26	true	5
+w28	especialmente	especialmente	N			0	Non-Opinionated	2		0		0		0		0		0		0	27	true	5
+w29	a	a	D			0	Non-Opinionated	2		0		0		0		0		0		0	28	true	5
+w30	verlo	verlo	N			0	Non-Opinionated	2		0		0		0		0		0		0	29	true	5
+w31	con	con	A			0	Non-Opinionated	2		0		0		0		0		0		0	30	true	5
+w32	simplemente	simplemente	G			0	Non-Opinionated	2		0		0		0		0		0		0	31	true	5
+w33	pasar	pasar	N			0	Non-Opinionated	2		0		0		0		0		0		0	32	true	5
+w34	por	por	N			0	Non-Opinionated	2		0		0		0		0		0		0	33	true	5
+w35	alli	alli	N			0	Non-Opinionated	2		0		0		0		0		0		0	34	true	5
+w36	en	en	P			0	Non-Opinionated	2		0		0		0		0		0		0	35	true	5
+w37	taxi	taxi	N			0	Non-Opinionated	2		0		0		0		0		0		0	36	true	5
+w38	o	o	A			0	Non-Opinionated	2		0		0		0		0		0		0	37	true	5
+w39	caminado	caminado	V			0	Non-Opinionated	2		0		0		0		0		0		0	38	true	5
+w40	ya	you	Q			0	Non-Opinionated	2		0		0		0		0		0		0	39	true	5
+w41	se	se	V			0	Non-Opinionated	2		0		0		0		0		0		0	40	true	5
+w42	aprecia	aprecia	N			0	Non-Opinionated	2		0		0		0		0		0		0	41	true	5

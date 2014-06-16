@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="es" version="v1.opener">
+  <kafHeader>
+    <fileDesc/>
+    <linguisticProcessors layer="text">
+      <lp name="opener-sentence-splitter-es" timestamp="2014-02-10T12:12:47Z" version="0.0.1"/>
+      <lp name="opener-tokenizer-es" timestamp="2014-02-10T12:12:47Z" version="1.0.1"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="ehu-pos-en" timestamp="2014-02-10 13:12:47" version="1.0"/>
+      <lp name="Basic_polarity_tagger_with_pos" timestamp="2014-02-24T16:35:12CET" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="entities">
+      <lp name="ehu-nerc-es" timestamp="2014-02-24 16:35:12" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="constituents">
+      <lp name="ehu-parse-es" timestamp="2014-02-24 16:35:12" version="1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-06-16T17:50:58CEST"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="opinions">
+      <lp name="Manual annotations" version="1.0" timestamp="2014-06-16T17:50:58CEST"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf wid="w1" sent="1" para="1" offset="0" length="6">barrio</wf>
+    <wf wid="w2" sent="1" para="1" offset="7" length="8">peculiar</wf>
+    <wf wid="w3" sent="2" para="2" offset="16" length="2">es</wf>
+    <wf wid="w4" sent="2" para="2" offset="19" length="3">una</wf>
+    <wf wid="w5" sent="2" para="2" offset="23" length="6">barrio</wf>
+    <wf wid="w6" sent="2" para="2" offset="30" length="8">peculiar</wf>
+    <wf wid="w7" sent="2" para="2" offset="38" length="1">,</wf>
+    <wf wid="w8" sent="2" para="2" offset="40" length="4">pero</wf>
+    <wf wid="w9" sent="2" para="2" offset="45" length="4">vale</wf>
+    <wf wid="w10" sent="2" para="2" offset="50" length="2">la</wf>
+    <wf wid="w11" sent="2" para="2" offset="53" length="4">pena</wf>
+    <wf wid="w12" sent="2" para="2" offset="58" length="2">ir</wf>
+    <wf wid="w13" sent="2" para="2" offset="61" length="1">a</wf>
+    <wf wid="w14" sent="2" para="2" offset="63" length="7">tomarte</wf>
+    <wf wid="w15" sent="2" para="2" offset="71" length="2">un</wf>
+    <wf wid="w16" sent="2" para="2" offset="74" length="2">te</wf>
+    <wf wid="w17" sent="2" para="2" offset="77" length="1">i</wf>
+    <wf wid="w18" sent="2" para="2" offset="79" length="5">fumar</wf>
+    <wf wid="w19" sent="2" para="2" offset="85" length="3">con</wf>
+    <wf wid="w20" sent="2" para="2" offset="89" length="2">la</wf>
+    <wf wid="w21" sent="2" para="2" offset="92" length="8">cachimba</wf>
+    <wf wid="w22" sent="2" para="2" offset="100" length="1">,</wf>
+    <wf wid="w23" sent="2" para="2" offset="102" length="6">parece</wf>
+    <wf wid="w24" sent="2" para="2" offset="109" length="3">que</wf>
+    <wf wid="w25" sent="2" para="2" offset="113" length="5">estes</wf>
+    <wf wid="w26" sent="2" para="2" offset="119" length="2">en</wf>
+    <wf wid="w27" sent="2" para="2" offset="122" length="4">otro</wf>
+    <wf wid="w28" sent="2" para="2" offset="127" length="5">mundo</wf>
+  </text>
+  <terms>
+    <!--barrio-->
+    <term tid="t1" type="open" lemma="barrio" pos="N" morphofeat="NN">
+      <sentiment resource="EHU_general_lexicon_italian" polarity="neutral"/>
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <!--peculiar-->
+    <term tid="t2" type="open" lemma="peculiar" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <!--es-->
+    <term tid="t3" type="open" lemma="es" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <!--una-->
+    <term tid="t4" type="open" lemma="una" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <!--barrio-->
+    <term tid="t5" type="open" lemma="barrio" pos="N" morphofeat="NN">
+      <sentiment resource="EHU_general_lexicon_italian" polarity="neutral"/>
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <!--peculiar-->
+    <term tid="t6" type="open" lemma="peculiar" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <!--,-->
+    <term tid="t7" type="close" lemma="," pos="O" morphofeat=",">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <!--pero-->
+    <term tid="t8" type="close" lemma="pero" pos="O" morphofeat="FW">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <!--vale-->
+    <term tid="t9" type="close" lemma="vale" pos="O" morphofeat="FW">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <!--la-->
+    <term tid="t10" type="close" lemma="la" pos="O" morphofeat="FW">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <!--pena-->
+    <term tid="t11" type="close" lemma="pena" pos="O" morphofeat="FW">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <!--ir-->
+    <term tid="t12" type="close" lemma="ir" pos="O" morphofeat="FW">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <!--a-->
+    <term tid="t13" type="close" lemma="a" pos="D" morphofeat="DT">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <!--tomarte-->
+    <term tid="t14" type="open" lemma="tomarte" pos="N" morphofeat="NN">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <!--un-->
+    <term tid="t15" type="open" lemma="un" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <!--te-->
+    <term tid="t16" type="open" lemma="te" pos="N" morphofeat="NN">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <!--i-->
+    <term tid="t17" type="open" lemma="i" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <!--fumar-->
+    <term tid="t18" type="open" lemma="fumar" pos="V" morphofeat="VBP">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <!--con-->
+    <term tid="t19" type="open" lemma="con" pos="A" morphofeat="RB">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <!--la-->
+    <term tid="t20" type="open" lemma="la" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <!--cachimba-->
+    <term tid="t21" type="open" lemma="cachimba" pos="N" morphofeat="NN">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <!--,-->
+    <term tid="t22" type="close" lemma="," pos="O" morphofeat=",">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <!--parece-->
+    <term tid="t23" type="open" lemma="parece" pos="N" morphofeat="NN">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <!--que-->
+    <term tid="t24" type="open" lemma="que" pos="N" morphofeat="NN">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <!--estes-->
+    <term tid="t25" type="open" lemma="estes" pos="N" morphofeat="NNS">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <!--en-->
+    <term tid="t26" type="close" lemma="en" pos="P" morphofeat="IN">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <!--otro-->
+    <term tid="t27" type="open" lemma="otro" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <!--mundo-->
+    <term tid="t28" type="open" lemma="mundo" pos="G" morphofeat="JJ">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+  </terms>
+  <constituency>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter1" label="TOP"/>
+      <nt id="nter2" label="SENTENCE"/>
+      <nt id="nter3" label="SN"/>
+      <nt id="nter4" label="GRUP.NOM"/>
+      <nt id="nter5" label="NCMS000"/>
+      <nt id="nter6" label="FP"/>
+      <!--Terminals-->
+      <!--barrio-->
+      <t id="ter1">
+        <span>
+          <target id="t1"/>
+        </span>
+      </t>
+      <!--peculiar-->
+      <t id="ter2">
+        <span>
+          <target id="t2"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre2" from="nter2" to="nter1"/>
+      <edge id="tre3" from="nter3" to="nter2"/>
+      <edge id="tre4" from="nter4" to="nter3"/>
+      <edge id="tre5" from="nter5" to="nter4" head="yes"/>
+      <edge id="tre6" from="ter1" to="nter5"/>
+      <edge id="tre7" from="nter6" to="nter2"/>
+      <edge id="tre8" from="ter2" to="nter6"/>
+    </tree>
+    <tree>
+      <!--Non-terminals-->
+      <nt id="nter7" label="TOP"/>
+      <nt id="nter8" label="SENTENCE"/>
+      <nt id="nter9" label="GRUP.VERB"/>
+      <nt id="nter10" label="VSIP3S0"/>
+      <nt id="nter11" label="SN"/>
+      <nt id="nter12" label="DI0FS0"/>
+      <nt id="nter13" label="GRUP.NOM"/>
+      <nt id="nter14" label="NCMS000"/>
+      <nt id="nter15" label="S.A"/>
+      <nt id="nter16" label="GRUP.A"/>
+      <nt id="nter17" label="AQ0CS0"/>
+      <nt id="nter18" label="S"/>
+      <nt id="nter19" label="FC"/>
+      <nt id="nter20" label="CONJ"/>
+      <nt id="nter21" label="CC"/>
+      <nt id="nter22" label="GRUP.VERB"/>
+      <nt id="nter23" label="VMIP3S0"/>
+      <nt id="nter24" label="SN"/>
+      <nt id="nter25" label="DA0FS0"/>
+      <nt id="nter26" label="GRUP.NOM"/>
+      <nt id="nter27" label="NCFS000"/>
+      <nt id="nter28" label="S"/>
+      <nt id="nter29" label="INFINITIU"/>
+      <nt id="nter30" label="VMN0000"/>
+      <nt id="nter31" label="SP"/>
+      <nt id="nter32" label="PREP"/>
+      <nt id="nter33" label="SPS00"/>
+      <nt id="nter34" label="S"/>
+      <nt id="nter35" label="INFINITIU"/>
+      <nt id="nter36" label="VMN0000"/>
+      <nt id="nter37" label="SN"/>
+      <nt id="nter38" label="DI0MS0"/>
+      <nt id="nter39" label="GRUP.NOM"/>
+      <nt id="nter40" label="NCMS000"/>
+      <nt id="nter41" label="S.A"/>
+      <nt id="nter42" label="GRUP.A"/>
+      <nt id="nter43" label="AQ0MS0"/>
+      <nt id="nter44" label="S"/>
+      <nt id="nter45" label="INFINITIU"/>
+      <nt id="nter46" label="VMN0000"/>
+      <nt id="nter47" label="SP"/>
+      <nt id="nter48" label="PREP"/>
+      <nt id="nter49" label="SPS00"/>
+      <nt id="nter50" label="SN"/>
+      <nt id="nter51" label="DA0FS0"/>
+      <nt id="nter52" label="GRUP.NOM"/>
+      <nt id="nter53" label="NCFS000"/>
+      <nt id="nter54" label="FC"/>
+      <nt id="nter55" label="GRUP.VERB"/>
+      <nt id="nter56" label="VMIP3S0"/>
+      <nt id="nter57" label="GRUP.VERB"/>
+      <nt id="nter58" label="S"/>
+      <nt id="nter59" label="CONJ"/>
+      <nt id="nter60" label="CS"/>
+      <nt id="nter61" label="S"/>
+      <nt id="nter62" label="SN"/>
+      <nt id="nter63" label="GRUP.NOM"/>
+      <nt id="nter64" label="NP0000P|PERSON"/>
+      <nt id="nter65" label="SP"/>
+      <nt id="nter66" label="PREP"/>
+      <nt id="nter67" label="SPS00"/>
+      <nt id="nter68" label="DI0MS0"/>
+      <nt id="nter69" label="NCMS000"/>
+      <!--Terminals-->
+      <!--es-->
+      <t id="ter3">
+        <span>
+          <target id="t3"/>
+        </span>
+      </t>
+      <!--una-->
+      <t id="ter4">
+        <span>
+          <target id="t4"/>
+        </span>
+      </t>
+      <!--barrio-->
+      <t id="ter5">
+        <span>
+          <target id="t5"/>
+        </span>
+      </t>
+      <!--peculiar-->
+      <t id="ter6">
+        <span>
+          <target id="t6"/>
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter7">
+        <span>
+          <target id="t7"/>
+        </span>
+      </t>
+      <!--pero-->
+      <t id="ter8">
+        <span>
+          <target id="t8"/>
+        </span>
+      </t>
+      <!--vale-->
+      <t id="ter9">
+        <span>
+          <target id="t9"/>
+        </span>
+      </t>
+      <!--la-->
+      <t id="ter10">
+        <span>
+          <target id="t10"/>
+        </span>
+      </t>
+      <!--pena-->
+      <t id="ter11">
+        <span>
+          <target id="t11"/>
+        </span>
+      </t>
+      <!--ir-->
+      <t id="ter12">
+        <span>
+          <target id="t12"/>
+        </span>
+      </t>
+      <!--a-->
+      <t id="ter13">
+        <span>
+          <target id="t13"/>
+        </span>
+      </t>
+      <!--tomarte-->
+      <t id="ter14">
+        <span>
+          <target id="t14"/>
+        </span>
+      </t>
+      <!--un-->
+      <t id="ter15">
+        <span>
+          <target id="t15"/>
+        </span>
+      </t>
+      <!--te-->
+      <t id="ter16">
+        <span>
+          <target id="t16"/>
+        </span>
+      </t>
+      <!--i-->
+      <t id="ter17">
+        <span>
+          <target id="t17"/>
+        </span>
+      </t>
+      <!--fumar-->
+      <t id="ter18">
+        <span>
+          <target id="t18"/>
+        </span>
+      </t>
+      <!--con-->
+      <t id="ter19">
+        <span>
+          <target id="t19"/>
+        </span>
+      </t>
+      <!--la-->
+      <t id="ter20">
+        <span>
+          <target id="t20"/>
+        </span>
+      </t>
+      <!--cachimba-->
+      <t id="ter21">
+        <span>
+          <target id="t21"/>
+        </span>
+      </t>
+      <!--,-->
+      <t id="ter22">
+        <span>
+          <target id="t22"/>
+        </span>
+      </t>
+      <!--parece-->
+      <t id="ter23">
+        <span>
+          <target id="t23"/>
+        </span>
+      </t>
+      <!--que-->
+      <t id="ter24">
+        <span>
+          <target id="t24"/>
+        </span>
+      </t>
+      <!--estes-->
+      <t id="ter25">
+        <span>
+          <target id="t25"/>
+        </span>
+      </t>
+      <!--en-->
+      <t id="ter26">
+        <span>
+          <target id="t26"/>
+        </span>
+      </t>
+      <!--otro-->
+      <t id="ter27">
+        <span>
+          <target id="t27"/>
+        </span>
+      </t>
+      <!--mundo-->
+      <t id="ter28">
+        <span>
+          <target id="t28"/>
+        </span>
+      </t>
+      <!--Tree edges-->
+      <edge id="tre10" from="nter8" to="nter7"/>
+      <edge id="tre11" from="nter9" to="nter8"/>
+      <edge id="tre12" from="nter10" to="nter9" head="yes"/>
+      <edge id="tre13" from="ter3" to="nter10"/>
+      <edge id="tre14" from="nter11" to="nter8"/>
+      <edge id="tre15" from="nter12" to="nter11"/>
+      <edge id="tre16" from="ter4" to="nter12"/>
+      <edge id="tre17" from="nter13" to="nter11"/>
+      <edge id="tre18" from="nter14" to="nter13"/>
+      <edge id="tre19" from="ter5" to="nter14"/>
+      <edge id="tre20" from="nter15" to="nter13"/>
+      <edge id="tre21" from="nter16" to="nter15"/>
+      <edge id="tre22" from="nter17" to="nter16" head="yes"/>
+      <edge id="tre23" from="ter6" to="nter17"/>
+      <edge id="tre24" from="nter18" to="nter8"/>
+      <edge id="tre25" from="nter19" to="nter18"/>
+      <edge id="tre26" from="ter7" to="nter19"/>
+      <edge id="tre27" from="nter20" to="nter18"/>
+      <edge id="tre28" from="nter21" to="nter20" head="yes"/>
+      <edge id="tre29" from="ter8" to="nter21"/>
+      <edge id="tre30" from="nter22" to="nter18"/>
+      <edge id="tre31" from="nter23" to="nter22" head="yes"/>
+      <edge id="tre32" from="ter9" to="nter23"/>
+      <edge id="tre33" from="nter24" to="nter18"/>
+      <edge id="tre34" from="nter25" to="nter24"/>
+      <edge id="tre35" from="ter10" to="nter25"/>
+      <edge id="tre36" from="nter26" to="nter24"/>
+      <edge id="tre37" from="nter27" to="nter26" head="yes"/>
+      <edge id="tre38" from="ter11" to="nter27"/>
+      <edge id="tre39" from="nter28" to="nter18"/>
+      <edge id="tre40" from="nter29" to="nter28"/>
+      <edge id="tre41" from="nter30" to="nter29" head="yes"/>
+      <edge id="tre42" from="ter12" to="nter30"/>
+      <edge id="tre43" from="nter31" to="nter28"/>
+      <edge id="tre44" from="nter32" to="nter31"/>
+      <edge id="tre45" from="nter33" to="nter32" head="yes"/>
+      <edge id="tre46" from="ter13" to="nter33"/>
+      <edge id="tre47" from="nter34" to="nter31"/>
+      <edge id="tre48" from="nter35" to="nter34"/>
+      <edge id="tre49" from="nter36" to="nter35" head="yes"/>
+      <edge id="tre50" from="ter14" to="nter36"/>
+      <edge id="tre51" from="nter37" to="nter34"/>
+      <edge id="tre52" from="nter38" to="nter37"/>
+      <edge id="tre53" from="ter15" to="nter38"/>
+      <edge id="tre54" from="nter39" to="nter37"/>
+      <edge id="tre55" from="nter40" to="nter39"/>
+      <edge id="tre56" from="ter16" to="nter40"/>
+      <edge id="tre57" from="nter41" to="nter39"/>
+      <edge id="tre58" from="nter42" to="nter41"/>
+      <edge id="tre59" from="nter43" to="nter42" head="yes"/>
+      <edge id="tre60" from="ter17" to="nter43"/>
+      <edge id="tre61" from="nter44" to="nter39"/>
+      <edge id="tre62" from="nter45" to="nter44"/>
+      <edge id="tre63" from="nter46" to="nter45" head="yes"/>
+      <edge id="tre64" from="ter18" to="nter46"/>
+      <edge id="tre65" from="nter47" to="nter44"/>
+      <edge id="tre66" from="nter48" to="nter47"/>
+      <edge id="tre67" from="nter49" to="nter48" head="yes"/>
+      <edge id="tre68" from="ter19" to="nter49"/>
+      <edge id="tre69" from="nter50" to="nter47"/>
+      <edge id="tre70" from="nter51" to="nter50"/>
+      <edge id="tre71" from="ter20" to="nter51"/>
+      <edge id="tre72" from="nter52" to="nter50"/>
+      <edge id="tre73" from="nter53" to="nter52" head="yes"/>
+      <edge id="tre74" from="ter21" to="nter53"/>
+      <edge id="tre75" from="nter54" to="nter18"/>
+      <edge id="tre76" from="ter22" to="nter54"/>
+      <edge id="tre77" from="nter55" to="nter8"/>
+      <edge id="tre78" from="nter56" to="nter55" head="yes"/>
+      <edge id="tre79" from="ter23" to="nter56"/>
+      <edge id="tre80" from="nter57" to="nter8"/>
+      <edge id="tre81" from="nter58" to="nter57"/>
+      <edge id="tre82" from="nter59" to="nter58"/>
+      <edge id="tre83" from="nter60" to="nter59" head="yes"/>
+      <edge id="tre84" from="ter24" to="nter60"/>
+      <edge id="tre85" from="nter61" to="nter58"/>
+      <edge id="tre86" from="nter62" to="nter61"/>
+      <edge id="tre87" from="nter63" to="nter62"/>
+      <edge id="tre88" from="nter64" to="nter63" head="yes"/>
+      <edge id="tre89" from="ter25" to="nter64"/>
+      <edge id="tre90" from="nter65" to="nter61"/>
+      <edge id="tre91" from="nter66" to="nter65"/>
+      <edge id="tre92" from="nter67" to="nter66" head="yes"/>
+      <edge id="tre93" from="ter26" to="nter67"/>
+      <edge id="tre94" from="nter68" to="nter65"/>
+      <edge id="tre95" from="ter27" to="nter68"/>
+      <edge id="tre96" from="nter69" to="nter65"/>
+      <edge id="tre97" from="ter28" to="nter69"/>
+    </tree>
+  </constituency>
+  <opinions>
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
+      <opinion_holder/>
+      <opinion_target>
+        <!--barrio-->
+        <span>
+          <target id="t1"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--peculiar-->
+        <span>
+          <target id="t2"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
+</KAF>

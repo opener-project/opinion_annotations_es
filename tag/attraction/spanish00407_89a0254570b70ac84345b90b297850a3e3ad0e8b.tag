@@ -1,0 +1,9 @@
+w1	La	La	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w5	Uno	Uno	R		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	4	true	2
+w6	de	de	O		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	5	true	2
+w7	los	los	O		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	6	true	2
+w8	Tantos	tantos	O		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	7	true	2
+w9	Sitios	sitios	O		OpinionTarget	2	Opinion	4		0		0		0		0		0		0	8	true	2
+w10	Emblemáticos	emblemáticos	O		Positive	3	Opinion	4		0		0		0		0		0		0	9	true	2
+w11	de	de	O		Positive	3	Opinion	4		0		0		0		0		0		0	10	true	2
+w12	Madrid	Madrid	R		Positive	3	Opinion	4		0		0		0		0		0		0	11	true	2

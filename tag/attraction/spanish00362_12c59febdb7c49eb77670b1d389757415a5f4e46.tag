@@ -1,0 +1,10 @@
+w1	Característico	Característico	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w3	uno	uno	G		Positive	2	Opinion	3		0		0		0		0		0		0	2	true	2
+w4	de	de	P		Positive	2	Opinion	3		0		0		0		0		0		0	3	true	2
+w5	los	los	N		Positive	2	Opinion	3		0		0		0		0		0		0	4	true	2
+w6	emblemas	emblemas	V		Positive	2	Opinion	3		0		0		0		0		0		0	5	true	2
+w7	de	de	O		Positive	2	Opinion	3		0		0		0		0		0		0	6	true	2
+w8	la	la	O		Positive	2	Opinion	3		0		0		0		0		0		0	7	true	2
+w9	ciudad	ciudad	O		Positive	2	Opinion	3		0		0		0		0		0		0	8	true	2
+w10	de	de	O		Positive	2	Opinion	3		0		0		0		0		0		0	9	true	2
+w11	Madrid	Madrid	R		Positive	2	Opinion	3		0		0		0		0		0		0	10	true	2

@@ -1,0 +1,11 @@
+w1	Maravillosa	Maravillosa	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w10	Imponente	Imponente	R		StrongPositive	2	Opinion	4		0		0		0		0		0		0	9	true	4
+w12	muy	muy	G		StrongPositive	3	Opinion	5		0		0		0		0		0		0	11	true	4
+w13	bien	bien	N		StrongPositive	3	Opinion	5		0		0		0		0		0		0	12	true	4
+w14	mantenida	mantenida	N		StrongPositive	3	Opinion	5		0		0		0		0		0		0	13	true	4
+w16	no	no	D		Positive	6	Opinion	7		0		0		0		0		0		0	15	true	4
+w17	hay	hay	N		Positive	6	Opinion	7		0		0		0		0		0		0	16	true	4
+w18	que	que	V		Positive	6	Opinion	7		0		0		0		0		0		0	17	true	4
+w19	dejar	dejar	A		Positive	6	Opinion	7		0		0		0		0		0		0	18	true	4
+w20	de	de	O		Positive	6	Opinion	7		0		0		0		0		0		0	19	true	4
+w21	visitarla	visitarla	O		Positive	6	Opinion	7		0		0		0		0		0		0	20	true	4

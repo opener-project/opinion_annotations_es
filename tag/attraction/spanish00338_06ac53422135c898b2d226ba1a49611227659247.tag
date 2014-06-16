@@ -1,0 +1,11 @@
+w1	Monumento	Monumento	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w29	No	no	D		Positive	2	Opinion	3		0		0		0		0		0		0	28	true	3
+w30	dudes	dude	N		Positive	2	Opinion	3		0		0		0		0		0		0	29	true	3
+w31	en	en	P		Positive	2	Opinion	3		0		0		0		0		0		0	30	true	3
+w32	ir	ir	Q		Positive	2	Opinion	3		0		0		0		0		0		0	31	true	3
+w33	a	a	D		Positive	2	Opinion	3		0		0		0		0		0		0	32	true	3
+w34	verlo	verlo	N		Positive	2	Opinion	3		0		0		0		0		0		0	33	true	3
+w40	tiene	tiene	N		Positive	5	Opinion	7		0		0		0		0		0		0	39	true	3
+w41	dedicada	dedicada	N		Positive	5	Opinion	7		0		0		0		0		0		0	40	true	3
+w42	una	una	G		OpinionTarget	6	Opinion	7		0		0		0		0		0		0	41	true	3
+w43	canción	canción	N		OpinionTarget	6	Opinion	7		0		0		0		0		0		0	42	true	3

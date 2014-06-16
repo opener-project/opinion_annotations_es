@@ -1,0 +1,16 @@
+w1	Precioso	Precioso	R			0		0		0		0	church/castle	1		0		0		0	0	true	1
+w17	Para	Para	R			0	Non-Opinionated	2		0		0		0		0		0		0	16	true	3
+w18	pasar	pasar	O			0	Non-Opinionated	2		0		0		0		0		0		0	17	true	3
+w19	la	la	O			0	Non-Opinionated	2		0		0		0		0		0		0	18	true	3
+w20	mañana	mañana	O			0	Non-Opinionated	2		0		0		0		0		0		0	19	true	3
+w21	o	o	O			0	Non-Opinionated	2		0		0		0		0		0		0	20	true	3
+w22	la	la	O			0	Non-Opinionated	2		0		0		0		0		0		0	21	true	3
+w23	tarde	tarde	O			0	Non-Opinionated	2		0		0		0		0		0		0	22	true	3
+w24	paseando	paseando	O			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	3
+w25	y	y	G			0	Non-Opinionated	2		0		0		0		0		0		0	24	true	3
+w26	relajarse	relajarse	G			0	Non-Opinionated	2		0		0		0		0		0		0	25	true	3
+w27	con	con	G			0	Non-Opinionated	2		0		0		0		0		0		0	26	true	3
+w28	el	el	N			0	Non-Opinionated	2		0		0		0		0		0		0	27	true	3
+w29	sonido	sonido	N			0	Non-Opinionated	2		0		0		0		0		0		0	28	true	3
+w30	del	del	O			0	Non-Opinionated	2		0		0		0		0		0		0	29	true	3
+w31	agua	agua	O			0	Non-Opinionated	2		0		0		0		0		0		0	30	true	3

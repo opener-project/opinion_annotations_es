@@ -1,0 +1,15 @@
+w1	Si	Si	R			0		0		0		0	church/castle	1		0		0		0	0	true	1
+w25	Hay	Hay	R			0	Non-Opinionated	2		0		0		0		0		0		0	24	true	3
+w26	que	que	N			0	Non-Opinionated	2		0		0		0		0		0		0	25	true	3
+w27	ir	ir	V			0	Non-Opinionated	2		0		0		0		0		0		0	26	true	3
+w28	a	a	D			0	Non-Opinionated	2		0		0		0		0		0		0	27	true	3
+w29	recorrer	recorrer	N			0	Non-Opinionated	2		0		0		0		0		0		0	28	true	3
+w30	el	el	N			0	Non-Opinionated	2		0		0		0		0		0		0	29	true	3
+w31	palacio	palacio	N			0	Non-Opinionated	2		0		0		0		0		0		0	30	true	3
+w32	de	de	P			0	Non-Opinionated	2		0		0		0		0		0		0	31	true	3
+w33	día	día	N			0	Non-Opinionated	2		0		0		0		0		0		0	32	true	3
+w34	a	a	D			0	Non-Opinionated	2		0		0		0		0		0		0	33	true	3
+w35	la	la	N			0	Non-Opinionated	2		0		0		0		0		0		0	34	true	3
+w36	tarde	tarde	N			0	Non-Opinionated	2		0		0		0		0		0		0	35	true	3
+w37	cuando	cuando	N			0	Non-Opinionated	2		0		0		0		0		0		0	36	true	3
+w38	atardece	atardece	N			0	Non-Opinionated	2		0		0		0		0		0		0	37	true	3

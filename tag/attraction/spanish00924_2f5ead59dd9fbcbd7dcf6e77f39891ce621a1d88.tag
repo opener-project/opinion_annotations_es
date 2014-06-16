@@ -1,0 +1,13 @@
+w1	Salón	salón	G			0		0		0		0	tour(city/landscape)	1		0		0		0	0	true	1
+w34	Eso	Eso	R			0	Non-Opinionated	2		0		0		0		0		0		0	33	true	4
+w35	sí	sí	N			0	Non-Opinionated	2		0		0		0		0		0		0	34	true	4
+w36	,	,	O			0	Non-Opinionated	2		0		0		0		0		0		0	35	true	4
+w37	te	te	G			0	Non-Opinionated	2		0		0		0		0		0		0	36	true	4
+w38	lo	lo	N			0	Non-Opinionated	2		0		0		0		0		0		0	37	true	4
+w39	decían	decían	O			0	Non-Opinionated	2		0		0		0		0		0		0	38	true	4
+w40	ostantemente	ostantemente	V			0	Non-Opinionated	2		0		0		0		0		0		0	39	true	4
+w41	por	por	G			0	Non-Opinionated	2		0		0		0		0		0		0	40	true	4
+w42	si	si	N			0	Non-Opinionated	2		0		0		0		0		0		0	41	true	4
+w43	no	no	D			0	Non-Opinionated	2		0		0		0		0		0		0	42	true	4
+w44	querías	querías	N			0	Non-Opinionated	2		0		0		0		0		0		0	43	true	4
+w45	seguir	seguir	V			0	Non-Opinionated	2		0		0		0		0		0		0	44	true	4

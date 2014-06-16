@@ -1,0 +1,11 @@
+w1	Un	Un	R			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w15	es	es	V		Positive	2	Opinion	3		0		0		0		0		0		0	14	true	2
+w16	un	un	G		Positive	2	Opinion	3		0		0		0		0		0		0	15	true	2
+w17	ícono	ícono	O		Positive	2	Opinion	3		0		0		0		0		0		0	16	true	2
+w18	de	de	O		Positive	2	Opinion	3		0		0		0		0		0		0	17	true	2
+w19	Madrid	Madrid	R		Positive	2	Opinion	3		0		0		0		0		0		0	18	true	2
+w31	el	el	N		OpinionTarget	4	Opinion	6		0		0		0		0		0		0	30	true	2
+w32	monumento	monumento	N		OpinionTarget	4	Opinion	6		0		0		0		0		0		0	31	true	2
+w33	es	es	V		Positive	5	Opinion	6		0		0		0		0		0		0	32	true	2
+w34	de	de	P		Positive	5	Opinion	6		0		0		0		0		0		0	33	true	2
+w35	admirar	admirar	N		Positive	5	Opinion	6		0		0		0		0		0		0	34	true	2

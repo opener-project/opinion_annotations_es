@@ -1,0 +1,12 @@
+w1	Un	un	G			0		0		0		0	tour(city/landscape)	1		0		0		0	0	true	1
+w18	Paseando	Paseando	R			0	Non-Opinionated	2		0		0		0		0		0		0	17	true	3
+w19	encontre	encontre	V			0	Non-Opinionated	2		0		0		0		0		0		0	18	true	3
+w20	una	una	G			0	Non-Opinionated	2		0		0		0		0		0		0	19	true	3
+w21	iglesia	iglesia	N			0	Non-Opinionated	2		0		0		0		0		0		0	20	true	3
+w22	que	que	V			0	Non-Opinionated	2		0		0		0		0		0		0	21	true	3
+w23	pertenecia	pertenecia	P			0	Non-Opinionated	2		0		0		0		0		0		0	22	true	3
+w24	a	a	D			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	3
+w25	unas	unas	G			0	Non-Opinionated	2		0		0		0		0		0		0	24	true	3
+w26	monjas	monjas	O			0	Non-Opinionated	2		0		0		0		0		0		0	25	true	3
+w27	de	de	O			0	Non-Opinionated	2		0		0		0		0		0		0	26	true	3
+w28	clausura	clausura	O			0	Non-Opinionated	2		0		0		0		0		0		0	27	true	3

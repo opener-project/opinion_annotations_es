@@ -1,0 +1,20 @@
+w1	art	art	N			0		0		0		0	tour(city/landscape)	1		0		0		0	0	true	1
+w9	en	en	P		Positive	2	Opinion	4		0		0		0		0		0		0	8	true	2
+w10	south	south	G		Positive	2	Opinion	4		0		0		0		0		0		0	9	true	2
+w11	beach	beach	N		Positive	2	Opinion	4		0		0		0		0		0		0	10	true	2
+w12	se	se	N		Positive	2	Opinion	4		0		0		0		0		0		0	11	true	2
+w13	encuentra	encuentra	O		Positive	2	Opinion	4		0		0		0		0		0		0	12	true	2
+w14	la	la	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	13	true	2
+w15	cantidad	cantidad	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	14	true	2
+w16	mas	mas	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	15	true	2
+w17	grande	grande	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	16	true	2
+w18	de	de	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	17	true	2
+w19	edificios	edificios	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	18	true	2
+w20	de	de	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	19	true	2
+w21	esa	esa	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	20	true	2
+w22	epoca	epoca	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	21	true	2
+w23	en	en	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	22	true	2
+w24	estilo	estilo	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	23	true	2
+w25	art	art	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	24	true	2
+w26	deco	deco	O		OpinionTarget	3	Opinion	4		0		0		0		0		0		0	25	true	2
+w39	buenisimo	buenisimo	N		StrongPositive	5	Opinion	6		0		0		0		0		0		0	38	true	2

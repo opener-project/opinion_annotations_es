@@ -1,0 +1,14 @@
+w1	Formidable	formidable	G			0		0		0		0	unknown	2		0		0		0	0	true	1
+w2	Lobueno	Lobueno	R			0	Non-Opinionated	1		0		0		0		0		0		0	1	true	2
+w3	es	es	V			0	Non-Opinionated	1		0		0		0		0		0		0	2	true	2
+w4	entrar	entrar	G			0	Non-Opinionated	1		0		0		0		0		0		0	3	true	2
+w5	cuando	cuando	N			0	Non-Opinionated	1		0		0		0		0		0		0	4	true	2
+w6	abren	abren	P			0	Non-Opinionated	1		0		0		0		0		0		0	5	true	2
+w7	entonces	entonces	N			0	Non-Opinionated	1		0		0		0		0		0		0	6	true	2
+w8	puedes	puedes	V			0	Non-Opinionated	1		0		0		0		0		0		0	7	true	2
+w9	passear	passear	G			0	Non-Opinionated	1		0		0		0		0		0		0	8	true	2
+w10	y	y	G			0	Non-Opinionated	1		0		0		0		0		0		0	9	true	2
+w11	disfrutar	disfrutar	N			0	Non-Opinionated	1		0		0		0		0		0		0	10	true	2
+w12	sin	sin	N			0	Non-Opinionated	1		0		0		0		0		0		0	11	true	2
+w13	ningun	ningun	O			0	Non-Opinionated	1		0		0		0		0		0		0	12	true	2
+w14	problema	problema	N			0	Non-Opinionated	1		0		0		0		0		0		0	13	true	2

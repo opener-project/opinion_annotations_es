@@ -1,0 +1,13 @@
+w1	Pintoresco	Pintoresco	R			0		0		0		0	tour(city/landscape)	2		0		0		0	0	true	1
+w15	Si	Si	R			0	Non-Opinionated	1		0		0		0		0		0		0	14	true	3
+w16	vas	vas	V			0	Non-Opinionated	1		0		0		0		0		0		0	15	true	3
+w17	con	con	A			0	Non-Opinionated	1		0		0		0		0		0		0	16	true	3
+w18	niños	niños	N			0	Non-Opinionated	1		0		0		0		0		0		0	17	true	3
+w19	,	,	O			0	Non-Opinionated	1		0		0		0		0		0		0	18	true	3
+w20	no	no	D			0	Non-Opinionated	1		0		0		0		0		0		0	19	true	3
+w21	aconsejable	aconsejable	G			0	Non-Opinionated	1		0		0		0		0		0		0	20	true	3
+w22	caminar	caminar	N			0	Non-Opinionated	1		0		0		0		0		0		0	21	true	3
+w23	por	por	N			0	Non-Opinionated	1		0		0		0		0		0		0	22	true	3
+w24	alli	alli	O			0	Non-Opinionated	1		0		0		0		0		0		0	23	true	3
+w25	de	de	O			0	Non-Opinionated	1		0		0		0		0		0		0	24	true	3
+w26	noche	noche	O			0	Non-Opinionated	1		0		0		0		0		0		0	25	true	3

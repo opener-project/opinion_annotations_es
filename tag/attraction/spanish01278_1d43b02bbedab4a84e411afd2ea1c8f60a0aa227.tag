@@ -1,0 +1,15 @@
+w1	Cuidado	Cuidado	R			0		0		0		0	market/shopping	1		0		0		0	0	true	1
+w13	Fuerzan	Fuerzan	R			0	Non-Opinionated	2		0		0		0		0		0		0	12	true	3
+w14	la	la	D			0	Non-Opinionated	2		0		0		0		0		0		0	13	true	3
+w15	cerradura	cerradura	G			0	Non-Opinionated	2		0		0		0		0		0		0	14	true	3
+w16	de	de	O			0	Non-Opinionated	2		0		0		0		0		0		0	15	true	3
+w17	los	los	O			0	Non-Opinionated	2		0		0		0		0		0		0	16	true	3
+w18	autos	auto	N			0	Non-Opinionated	2		0		0		0		0		0		0	17	true	3
+w19	y	y	G			0	Non-Opinionated	2		0		0		0		0		0		0	18	true	3
+w20	roban	roban	N			0	Non-Opinionated	2		0		0		0		0		0		0	19	true	3
+w21	todo	todo	N			0	Non-Opinionated	2		0		0		0		0		0		0	20	true	3
+w22	lo	lo	G			0	Non-Opinionated	2		0		0		0		0		0		0	21	true	3
+w23	que	que	G			0	Non-Opinionated	2		0		0		0		0		0		0	22	true	3
+w24	encuentran	encuentran	G			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	3
+w25	en	en	P			0	Non-Opinionated	2		0		0		0		0		0		0	24	true	3
+w26	el	el	N			0	Non-Opinionated	2		0		0		0		0		0		0	25	true	3

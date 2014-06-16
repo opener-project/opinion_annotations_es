@@ -1,0 +1,15 @@
+w1	Sorprendente	Sorprendente	R			0		0		0		0	tour(city/landscape)	1		0		0		0	0	true	1
+w11	Recomiendo	Recomiendo	R			0	Non-Opinionated	2		0		0		0		0		0		0	10	true	3
+w12	ir	ir	Q			0	Non-Opinionated	2		0		0		0		0		0		0	11	true	3
+w13	con	con	G			0	Non-Opinionated	2		0		0		0		0		0		0	12	true	3
+w14	calzado	calzado	G			0	Non-Opinionated	2		0		0		0		0		0		0	13	true	3
+w15	cómodo	cómodo	N			0	Non-Opinionated	2		0		0		0		0		0		0	14	true	3
+w16	por	por	N			0	Non-Opinionated	2		0		0		0		0		0		0	15	true	3
+w17	el	el	N			0	Non-Opinionated	2		0		0		0		0		0		0	16	true	3
+w18	empedrado	empedrado	O			0	Non-Opinionated	2		0		0		0		0		0		0	17	true	3
+w19	de	de	O			0	Non-Opinionated	2		0		0		0		0		0		0	18	true	3
+w20	sus	sus	O			0	Non-Opinionated	2		0		0		0		0		0		0	19	true	3
+w21	calles	calles	N			0	Non-Opinionated	2		0		0		0		0		0		0	20	true	3
+w22	y	y	G			0	Non-Opinionated	2		0		0		0		0		0		0	21	true	3
+w23	sus	sus	N			0	Non-Opinionated	2		0		0		0		0		0		0	22	true	3
+w24	cuestas	cuestas	N			0	Non-Opinionated	2		0		0		0		0		0		0	23	true	3

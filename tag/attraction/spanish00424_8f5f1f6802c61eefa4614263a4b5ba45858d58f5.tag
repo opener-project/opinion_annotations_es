@@ -1,0 +1,14 @@
+w1	monumento	monumento	O			0		0		0		0	memorial site	1		0		0		0	0	true	1
+w3	Te	Te	R		StrongPositive	2	Opinion	3		0		0		0		0		0		0	2	true	2
+w4	deja	deja	N		StrongPositive	2	Opinion	3		0		0		0		0		0		0	3	true	2
+w5	sin	sin	N		StrongPositive	2	Opinion	3		0		0		0		0		0		0	4	true	2
+w6	aliento	aliento	P		StrongPositive	2	Opinion	3		0		0		0		0		0		0	5	true	2
+w17	te	te	O		StrongPositive	4	Opinion	5		0		0		0		0		0		0	16	true	2
+w18	deja	deja	O		StrongPositive	4	Opinion	5		0		0		0		0		0		0	17	true	2
+w19	sin	sin	O		StrongPositive	4	Opinion	5		0		0		0		0		0		0	18	true	2
+w20	aliento	aliento	O		StrongPositive	4	Opinion	5		0		0		0		0		0		0	19	true	2
+w22	te	te	O		StrongPositive	8	Opinion	7		0		0		0		0		0		0	21	true	2
+w23	hace	hace	O		StrongPositive	8	Opinion	7		0		0		0		0		0		0	22	true	2
+w24	sentir	sentir	O		StrongPositive	8	Opinion	7		0		0		0		0		0		0	23	true	2
+w25	muy	muy	O		StrongPositive	8	Opinion	7		0		0		0		0		0		0	24	true	2
+w26	pequeñito	pequeñito	O		StrongPositive	8	Opinion	7		0		0		0		0		0		0	25	true	2
